@@ -1,0 +1,1052 @@
+﻿export const assessmentData2 = [
+{
+q: "1. According to Spady (1994), what is the focus of Outcome-Based Education (OBE)?",
+                options: ["a. The number of hours spent in a classroom", "b. Organizing everything in an educational system around what is essential for students to do successfully", "c. The strict adherence to a traditional curriculum", "d. The total number of units a student completes"],
+                ans: 1,
+                hint: "OBE focuses on results, not inputs like time.",
+                rat: "Spady defined OBE as organizing the educational system around essential outcomes (what students can do) rather than inputs (time spent)."
+            },
+            {
+                q: "2. Which type of assessment is done to provide feedback to both the teacher and the student during the instruction process?",
+                options: ["a. Assessment of Learning", "b. Assessment as Learning", "c. Assessment for Learning", "d. Summative Assessment"],
+                ans: 2,
+                hint: "It happens 'during' to help 'form' the learning.",
+                rat: "Assessment FOR learning (formative) occurs during instruction to guide improvements. Assessment OF learning is summative (end), and AS learning is self-reflection."
+            },
+            {
+                q: "3. What is the main characteristic of 'Assessment as Learning'?",
+                options: ["a. It involves teachers giving grades at the end of the term.", "b. It involves students reflecting on their own learning and monitoring their progress.", "c. It focuses on large-scale standardized testing.", "d. It is used exclusively for administrative promotion."],
+                ans: 1,
+                hint: "The student acts as the assessor.",
+                rat: "Assessment as Learning emphasizes the role of the student in monitoring their own progress and reflection (Metacognition)."
+            },
+            {
+                q: "4. In the context of OBE, which principle suggests that teachers must begin with the end in mind?",
+                options: ["a. Clarity of Focus", "b. Expanded Opportunities", "c. High Expectations", "d. Design Down"],
+                ans: 3,
+                hint: "Start from the destination.",
+                rat: "Design Down means designing the curriculum backward, starting from the exit outcomes (the end) down to the specific lessons."
+            },
+            {
+                q: "5. Which of the following is a synonym for 'Authentic Assessment'?",
+                options: ["a. Multiple-choice testing", "b. Paper-and-pencil assessment", "c. Performance assessment", "d. Standardized IQ testing"],
+                ans: 2,
+                hint: "It requires doing a task.",
+                rat: "Authentic assessment requires students to perform tasks that mimic real-world challenges, hence it is often synonymous with Performance Assessment."
+            },
+            {
+                q: "6. Assessment for learning is essentially __________ in nature.",
+                options: ["a. Summative", "b. Formative", "c. Evaluative", "d. Terminal"],
+                ans: 1,
+                hint: "It forms the learning.",
+                rat: "Assessment FOR learning is Formative because it helps shape instruction while learning is still taking place."
+            },
+            {
+                q: "7. 'Design Down' in OBE means that the curriculum design must start with:",
+                options: ["a. The textbooks available", "b. The ultimate learning outcomes", "c. The teacher's preferred teaching style", "d. The school's physical facilities"],
+                ans: 1,
+                hint: "The final goal.",
+                rat: "Design Down starts with the 'Exit Outcomes' (ultimate learning outcomes) and plans backward to achieve them."
+            },
+            {
+                q: "8. Which of these is a characteristic of authentic assessment tasks?",
+                options: ["a. They are usually 'contrived' or 'artificial.'", "b. They require students to apply knowledge in real-world contexts.", "c. They focus on recall of isolated facts.", "d. They consist mostly of true or false items."],
+                ans: 1,
+                hint: "Real life.",
+                rat: "Authentic assessments require the application of skills in real-world or realistic contexts, not just recall."
+            },
+            {
+                q: "9. In Bloom's Revised Taxonomy, what is the highest level of cognitive processing?",
+                options: ["a. Analyzing", "b. Evaluating", "c. Creating", "d. Remembering"],
+                ans: 2,
+                hint: "Making something new.",
+                rat: "Creating (formerly Synthesis) is the highest level in the revised taxonomy, placing it above Evaluating."
+            },
+            {
+                q: "10. Which outcome level refers to the ability to use learned material in new and concrete situations?",
+                options: ["a. Knowledge", "b. Comprehension", "c. Application", "d. Synthesis"],
+                ans: 2,
+                hint: "Using what you learned.",
+                rat: "Application involves using learned material in new situations."
+            },
+            {
+                q: "11. A scoring tool that lists the criteria for a piece of work and describes levels of quality is called a:",
+                options: ["a. Checklist", "b. Rubric", "c. Portfolio", "d. Gradebook"],
+                ans: 1,
+                hint: "A guide for grading with levels.",
+                rat: "A rubric contains criteria and descriptors for different levels of performance. A checklist only checks presence/absence."
+            },
+            {
+                q: "12. Which type of rubric provides a single score based on an overall impression of a student's performance?",
+                options: ["a. Analytic Rubric", "b. Holistic Rubric", "c. Task-specific Rubric", "d. General Rubric"],
+                ans: 1,
+                hint: "Whole view.",
+                rat: "Holistic rubrics provide a single global score based on the overall impression, whereas Analytic scores separate criteria."
+            },
+            {
+                q: "13. Which component of a rubric describes the specific attributes of the student's work?",
+                options: ["a. Scale", "b. Descriptors", "c. Criteria", "d. Scores"],
+                ans: 2,
+                hint: "The list of what is being judged.",
+                rat: "Criteria are the specific aspects (e.g., Grammar, Content) being assessed. Descriptors describe the quality at each level."
+            },
+            {
+                q: "14. What is the primary purpose of a 'Portfolio' in assessment?",
+                options: ["a. To store all the tests taken by the student", "b. To showcase a purposeful collection of student work over time", "c. To replace the need for any grades", "d. To serve as a teacher's personal diary"],
+                ans: 1,
+                hint: "Collection of progress/work.",
+                rat: "A portfolio is a purposeful collection of student work that exhibits the student's efforts, progress, and achievements."
+            },
+            {
+                q: "15. Which of the following is NOT a characteristic of a good learning outcome?",
+                options: ["a. It is student-centered.", "b. It is vague and broad to allow for flexibility.", "c. It is observable and measurable.", "d. It uses action verbs."],
+                ans: 1,
+                hint: "SMART goals.",
+                rat: "Good outcomes must be Specific (not vague), Measurable, and Observable. Vague outcomes cannot be effectively assessed."
+            },
+            {
+                q: "16. In the affective domain, which level refers to the student's willingness to attend to particular phenomena?",
+                options: ["a. Valuing", "b. Responding", "c. Receiving", "d. Characterization"],
+                ans: 2,
+                hint: "Paying attention.",
+                rat: "Receiving (or Attending) is the lowest level, referring to the willingness to pay attention."
+            },
+            {
+                q: "17. 'Assessment of Learning' is usually __________.",
+                options: ["a. Diagnostic", "b. Summative", "c. Continuous", "d. Informal"],
+                ans: 1,
+                hint: "Final grade.",
+                rat: "Assessment OF learning is Summative, occurring at the end to measure achievement against standards."
+            },
+            {
+                q: "18. Which OBE principle states that all students can learn and succeed, but not on the same day or in the same way?",
+                options: ["a. High Expectations", "b. Expanded Opportunities", "c. Clarity of Focus", "d. Design Down"],
+                ans: 1,
+                hint: "More chances/time.",
+                rat: "Expanded Opportunities means giving students multiple chances and methods to demonstrate success."
+            },
+            {
+                q: "19. A 'Showcase Portfolio' is intended to:",
+                options: ["a. Document the daily progress of a student", "b. Display the student's best works or highest achievements", "c. Act as a folder for unfinished assignments", "d. Evaluate the teacher's performance"],
+                ans: 1,
+                hint: "Show off.",
+                rat: "A Showcase Portfolio is curated to show the student's best work, often for graduation or employment."
+            },
+            {
+                q: "20. What is the 'Affective Domain' primarily concerned with?",
+                options: ["a. Mental skills and knowledge", "b. Manual or physical skills", "c. Attitudes, values, and emotions", "d. Standardized test scores"],
+                ans: 2,
+                hint: "Feelings.",
+                rat: "Affective domain deals with emotions, values, attitudes, and appreciation."
+            },
+            {
+                q: "21. When a teacher uses a rubric that evaluates separate parts of a product or performance, she is using an:",
+                options: ["a. Holistic Rubric", "b. Analytic Rubric", "c. Integrated Rubric", "d. Average Rubric"],
+                ans: 1,
+                hint: "Part by part.",
+                rat: "Analytic rubrics break down the grade into specific criteria (parts), providing detailed feedback."
+            },
+            {
+                q: "22. Which of the following is a direct assessment of a student's ability to write?",
+                options: ["a. A multiple-choice test on grammar", "b. Having the student write an actual essay", "c. Asking the student to name parts of speech", "d. A spelling bee"],
+                ans: 1,
+                hint: "Actually doing the writing.",
+                rat: "Writing an essay is a direct assessment of writing skills. Multiple choice is an indirect test of knowledge about writing."
+            },
+            {
+                q: "23. Krathwohl's taxonomy of the affective domain includes which of the following?",
+                options: ["a. Precision", "b. Organizing", "c. Knowledge", "d. Application"],
+                ans: 1,
+                hint: "Organizing values.",
+                rat: "Organizing (Organization) is a level in the Affective domain. Precision is Psychomotor; Knowledge/Application are Cognitive."
+            },
+            {
+                q: "24. In the K to 12 system of the Philippines, what is the weight of 'Performance Tasks' in Science and Math for Grades 1-10?",
+                options: ["a. 20%", "b. 40%", "c. 50%", "d. 60%"],
+                ans: 2,
+                hint: "Half.",
+                rat: "For Science and Math (Grades 1-10), Performance Tasks are weighted at 50% (Written Work is 30%, Quarterly Assessment is 20%)."
+            },
+            {
+                q: "25. An 'e-Portfolio' is different from a traditional portfolio because it:",
+                options: ["a. Does not require criteria", "b. Is stored and accessed through electronic media", "c. Is only used for computer subjects", "d. Is not a valid form of assessment"],
+                ans: 1,
+                hint: "Digital.",
+                rat: "The defining characteristic of an e-Portfolio is its digital/electronic format."
+            },
+            {
+                q: "26. What is the first step in developing a scoring rubric?",
+                options: ["a. Assigning numerical values", "b. Writing descriptors", "c. Defining the criteria", "d. Choosing the scale"],
+                ans: 2,
+                hint: "What are you grading?",
+                rat: "You must first define the learning outcomes or criteria (what you are looking for) before you can describe levels or assign points."
+            },
+            {
+                q: "27. 'Assessment for Learning' occurs:",
+                options: ["a. At the end of the unit", "b. During the instruction", "c. Once a year", "d. Only during final exams"],
+                ans: 1,
+                hint: "While learning.",
+                rat: "Assessment FOR learning is formative and happens during the instructional process to adjust teaching."
+            },
+            {
+                q: "28. Which is an example of a 'Process-Oriented' performance-based assessment?",
+                options: ["a. A finished painting", "b. A written poem", "c. Observing the steps taken while a student conducts a lab experiment", "d. A completed project model"],
+                ans: 2,
+                hint: "Watching the action.",
+                rat: "Process-oriented assessment focuses on the steps/action (e.g., conducting the experiment) rather than just the final output."
+            },
+            {
+                q: "29. The term 'Authentic' in assessment implies that the tasks are:",
+                options: ["a. Easy to grade", "b. Real-world and meaningful", "c. Based only on textbook questions", "d. Conducted only in a laboratory"],
+                ans: 1,
+                hint: "Real life.",
+                rat: "Authentic implies the task mimics real-world challenges and is meaningful to the learner."
+            },
+            {
+                q: "30. Which is a characteristic of 'High Expectations' in OBE?",
+                options: ["a. Setting a low bar so everyone passes", "b. Providing 'watered-down' curriculum", "c. Raising the performance level for all students", "d. Using bell-curve grading"],
+                ans: 2,
+                hint: "Aim high.",
+                rat: "High Expectations involves challenging all students to reach high standards, believing they can succeed."
+            },
+            {
+                q: "31. In the affective domain, the highest level where a person acts consistently with their values is:",
+                options: ["a. Valuing", "b. Responding", "c. Characterization by a value", "d. Receiving"],
+                ans: 2,
+                hint: "It defines their character.",
+                rat: "Characterization (Internalizing values) is the highest level, where the value system controls behavior consistently."
+            },
+            {
+                q: "32. A 'Growth Portfolio' focuses on:",
+                options: ["a. The final product only", "b. Showing progress over time", "c. The best work of the year", "d. Standardized test results"],
+                ans: 1,
+                hint: "Improvement.",
+                rat: "Growth portfolios (or Developmental portfolios) are designed to show improvement and progress over a period."
+            },
+            {
+                q: "33. The 'Table of Specifications' (TOS) ensures:",
+                options: ["a. Content validity of the test", "b. The test is long enough", "c. Students like the test", "d. The teacher can grade quickly"],
+                ans: 0,
+                hint: "Matches the topics taught.",
+                rat: "TOS maps the test items to the topics and cognitive levels, ensuring the test validly covers the content."
+            },
+            {
+                q: "34. Which of these is a psychomotor domain level?",
+                options: ["a. Valuing", "b. Precision", "c. Analyzing", "d. Receiving"],
+                ans: 1,
+                hint: "Accuracy/Movement.",
+                rat: "Precision is a level in the Psychomotor domain (Simpson's/Harrow's). The others are Affective or Cognitive."
+            },
+            {
+                q: "35. Outcome-Based Education focuses on what students __________ after the instruction.",
+                options: ["a. Memorize", "b. Can demonstrate/do", "c. Feel", "d. Read"],
+                ans: 1,
+                hint: "Action/Demonstration.",
+                rat: "OBE is concerned with the demonstration of learning (outcomes), not just what they know or feel internally."
+            },
+            {
+                q: "36. A test is considered 'Reliable' if:",
+                options: ["a. It measures what it is supposed to measure.", "b. It yields consistent results over time.", "c. It is easy to print.", "d. It has many pictures."],
+                ans: 1,
+                hint: "Consistency.",
+                rat: "Reliability refers to the consistency or stability of test scores."
+            },
+            {
+                q: "37. Authentic assessment is often __________ rather than teacher-led.",
+                options: ["a. Student-centered", "b. Pass-fail", "c. Secretive", "d. Rigid"],
+                ans: 0,
+                hint: "Focus on learner.",
+                rat: "Authentic assessments place the student at the center, often requiring them to construct their own responses or tasks."
+            },
+            {
+                q: "38. Which is a benefit of using rubrics?",
+                options: ["a. They make grading more subjective.", "b. They hide the expectations from students.", "c. They provide clear feedback to students.", "d. They increase the time needed for grading."],
+                ans: 2,
+                hint: "Clarity.",
+                rat: "Rubrics clarify expectations and provide detailed feedback on performance."
+            },
+            {
+                q: "39. In a 'Reflective Journal,' students are engaging in:",
+                options: ["a. Assessment of Learning", "b. Assessment as Learning", "c. Summative Assessment", "d. Placement Assessment"],
+                ans: 1,
+                hint: "Metacognition.",
+                rat: "Reflection is a key component of Assessment AS Learning, where students monitor their own thinking."
+            },
+            {
+                q: "40. What does the 'S' in SMART criteria for learning outcomes stand for?",
+                options: ["a. Simple", "b. Special", "c. Specific", "d. Subjective"],
+                ans: 2,
+                hint: "Not vague.",
+                rat: "S stands for Specific. (Specific, Measurable, Attainable, Relevant, Time-bound)."
+            },
+            {
+                q: "41. Which of the following is an example of an 'Alternative Assessment'?",
+                options: ["a. Multiple-choice test", "b. True or false", "c. Oral presentation", "d. Matching type"],
+                ans: 2,
+                hint: "Not paper-pencil.",
+                rat: "Oral presentations are alternative assessments; the others are traditional paper-and-pencil tests."
+            },
+            {
+                q: "42. Which type of portfolio contains all the works of the student, whether good or bad, to show the process?",
+                options: ["a. Showcase Portfolio", "b. Documentation Portfolio", "c. Assessment Portfolio", "d. Electronic Portfolio"],
+                ans: 1,
+                hint: "Everything.",
+                rat: "A Documentation (or Working/Process) portfolio keeps a record of all work to track the entire learning journey."
+            },
+            {
+                q: "43. Assessment is a process of gathering __________ to make decisions.",
+                options: ["a. Grades", "b. Evidence", "c. Textbooks", "d. Rubrics"],
+                ans: 1,
+                hint: "Data/Proof.",
+                rat: "Assessment is fundamentally about gathering evidence of student learning to inform decisions."
+            },
+            {
+                q: "44. 'Assessment of Learning' is typically used for:",
+                options: ["a. Improvement of teaching", "b. Grading and certification", "c. Student self-reflection", "d. Diagnosis of learning gaps"],
+                ans: 1,
+                hint: "Reporting.",
+                rat: "Assessment OF learning is Summative, used to certify competence and assign grades."
+            },
+            {
+                q: "45. Which level of Bloom's Taxonomy involves breaking down information into parts?",
+                options: ["a. Remembering", "b. Understanding", "c. Analyzing", "d. Applying"],
+                ans: 2,
+                hint: "Dissecting.",
+                rat: "Analyzing involves breaking material into its constituent parts to understand its structure."
+            },
+            {
+                q: "46. What is the role of 'Criteria' in a rubric?",
+                options: ["a. To define the score", "b. To identify the qualities to be assessed", "c. To provide a summary of the grade", "d. To list the names of the students"],
+                ans: 1,
+                hint: "What matters.",
+                rat: "Criteria identify the specific dimensions or qualities (e.g., clarity, accuracy) that will be judged."
+            },
+            {
+                q: "47. 'Performance-based assessment' is a direct measure of __________?",
+                options: ["a. Intelligence", "b. Competence/Skill", "c. Memory", "d. Speed"],
+                ans: 1,
+                hint: "Ability to do.",
+                rat: "It measures the actual competence or skill performance, rather than just knowledge about the skill."
+            },
+            {
+                q: "48. In the affective domain, 'Responding' involves:",
+                options: ["a. Passive attention", "b. Active participation and reaction", "c. Internalizing a value system", "d. Analyzing data"],
+                ans: 1,
+                hint: "Participating.",
+                rat: "Responding goes beyond merely attending (Receiving) to active participation."
+            },
+            {
+                q: "49. Which of the following is a 'Product-Oriented' assessment?",
+                options: ["a. Observing a dance", "b. Listening to an oral report", "c. Evaluating a finished wooden chair in carpentry", "d. Watching a student cook"],
+                ans: 2,
+                hint: "The final object.",
+                rat: "The wooden chair is a tangible product. Dance and cooking are processes/performances."
+            },
+            {
+                q: "50. To be 'Verbatim,' an outcome must be stated in terms of __________?",
+                options: ["a. Teacher actions", "b. Student behaviors", "c. Course titles", "d. Textbook chapters"],
+                ans: 1,
+                hint: "What the student does.",
+                rat: "Outcomes must describe observable student behaviors."
+            },
+            {
+                q: "51. Which of the following is a disadvantage of holistic rubrics?",
+                options: ["a. They are fast to use.", "b. They provide detailed feedback on specific areas.", "c. They do not provide specific feedback for improvement.", "d. They are easy to construct."],
+                ans: 2,
+                hint: "Lack of detail.",
+                rat: "Because they give one overall score, they fail to tell the student exactly which part (e.g., grammar vs. content) needs improvement."
+            },
+            {
+                q: "52. What is the focus of 'Authentic Assessment' regarding the curriculum?",
+                options: ["a. It is separate from the curriculum.", "b. It is an integral part of instruction and learning.", "c. It is only for the end of the year.", "d. It focuses on rote memorization."],
+                ans: 1,
+                hint: "Integrated.",
+                rat: "Authentic assessment is interwoven with instruction, not treated as a separate 'testing event'."
+            },
+            {
+                q: "53. In OBE, the curriculum is 'designed __________'.",
+                options: ["a. Upwards", "b. Backwards", "c. Sideways", "d. Randomly"],
+                ans: 1,
+                hint: "From the end.",
+                rat: "This refers to the 'Design Down' or Backward Design principle."
+            },
+            {
+                q: "54. Which is a characteristic of a 'Documentation Portfolio'?",
+                options: ["a. Only the best works are included.", "b. It tracks the progress of a student's work over time.", "c. It is used for employment only.", "d. It is discarded at the end of the day."],
+                ans: 1,
+                hint: "Tracking history.",
+                rat: "Documentation portfolios collect work over time to show the breadth of student accomplishments and progress."
+            },
+            {
+                q: "55. Assessment that is used to place students in the right level of a program is called:",
+                options: ["a. Formative", "b. Summative", "c. Placement", "d. Diagnostic"],
+                ans: 2,
+                hint: "Before starting.",
+                rat: "Placement assessment (e.g., entrance exams) determines the appropriate starting point for a student."
+            },
+            {
+                q: "56. In DepEd Order 8, s. 2015, 'Written Work' includes:",
+                options: ["a. Quizzes and Unit Tests", "b. Role Play", "c. Field Work", "d. Oral Exams"],
+                ans: 0,
+                hint: "Paper and pencil.",
+                rat: "Quizzes, unit tests, and essays fall under 'Written Work'. Role play is Performance."
+            },
+            {
+                q: "57. Which is a 'Direct' method of assessment?",
+                options: ["a. Questionnaire", "b. Portfolio", "c. Interview", "d. Performance Task"],
+                ans: 3,
+                hint: "Doing the thing.",
+                rat: "Performance tasks directly demonstrate the skill. (Portfolios can be direct, but Performance Task is the classic definition of direct demonstration)."
+            },
+            {
+                q: "58. What is the 'Cognitive Domain' concerned with?",
+                options: ["a. Values", "b. Emotions", "c. Intellectual abilities and knowledge", "d. Physical movements"],
+                ans: 2,
+                hint: "Thinking.",
+                rat: "Cognitive domain deals with mental skills, knowledge, and intellect."
+            },
+            {
+                q: "59. The 'Valuing' level of the affective domain involves:",
+                options: ["a. Paying attention to a stimulus", "b. Attaching worth to an object or behavior", "c. Creating a philosophy of life", "d. Following instructions"],
+                ans: 1,
+                hint: "Worth.",
+                rat: "Valuing is the internal process of attaching worth or value to a phenomenon."
+            },
+            {
+                q: "60. Which of the following is an 'Indirect' assessment of student learning?",
+                options: ["a. A student's essay", "b. A student's final exam score", "c. An employer's survey about a graduate's performance", "d. A laboratory report"],
+                ans: 2,
+                hint: "Opinion/Survey.",
+                rat: "Surveys ask for opinions about learning, rather than observing the learning itself directly."
+            },
+            {
+                q: "61. Scoring rubrics are used to reduce __________ in grading.",
+                options: ["a. Accuracy", "b. Objectivity", "c. Subjectivity", "d. Validity"],
+                ans: 2,
+                hint: "Personal bias.",
+                rat: "By providing clear criteria, rubrics make grading less dependent on the teacher's mood (subjectivity) and more objective."
+            },
+            {
+                q: "62. In a rubric, the 'Levels of Performance' are often labeled as:",
+                options: ["a. A, B, C, D", "b. 1, 2, 3, 4", "c. Excellent, Good, Fair, Poor", "d. All of the above"],
+                ans: 3,
+                hint: "Any scale works.",
+                rat: "Levels can be qualitative (Excellent...) or quantitative (1, 2, 3...)."
+            },
+            {
+                q: "63. What does 'Clarity of Focus' mean in OBE?",
+                options: ["a. Teachers should have clear classroom rules.", "b. Teachers should focus on the student's mastery of the learning outcomes.", "c. Teachers should use clear ink on handouts.", "d. Students should have clear vision."],
+                ans: 1,
+                hint: "Focus on the goal.",
+                rat: "It means the teacher and student must always be focused on the intended learning outcomes."
+            },
+            {
+                q: "64. Which is a key element of authentic assessment?",
+                options: ["a. It is a one-time test.", "b. It uses 'ill-structured' problems that reflect real life.", "c. It only uses multiple-choice items.", "d. It is always done individually."],
+                ans: 1,
+                hint: "Real life is messy.",
+                rat: "Real-world problems are often 'ill-structured' (no single correct path), unlike textbook problems."
+            },
+            {
+                q: "65. 'Formative Assessment' is to 'Assessment for Learning' as 'Summative Assessment' is to __________?",
+                options: ["a. Assessment as Learning", "b. Assessment of Learning", "c. Diagnostic Assessment", "d. Placement Assessment"],
+                ans: 1,
+                hint: "Of.",
+                rat: "Summative assessment is synonymous with Assessment OF Learning."
+            },
+            {
+                q: "66. Which type of assessment identifies the student's strengths and weaknesses?",
+                options: ["a. Diagnostic", "b. Placement", "c. Summative", "d. Authentic"],
+                ans: 0,
+                hint: "Diagnose.",
+                rat: "Diagnostic assessment is used to identify prior knowledge, strengths, and weaknesses."
+            },
+            {
+                q: "67. In the affective domain, 'Organizing' refers to:",
+                options: ["a. Tidying up a desk", "b. Prioritizing values and resolving conflicts between them", "c. Responding to a teacher's question", "d. Memorizing a poem"],
+                ans: 1,
+                hint: "Building a value system.",
+                rat: "Organization involves putting together different values, resolving conflicts, and building an internal value system."
+            },
+            {
+                q: "68. A scoring rubric is 'Analytic' if it:",
+                options: ["a. Gives one overall score.", "b. Scores each criterion separately.", "c. Does not use numbers.", "d. Is used for behavioral observation only."],
+                ans: 1,
+                hint: "Separate scores.",
+                rat: "Analytic rubrics provide separate scores for each criterion."
+            },
+            {
+                q: "69. Which is an advantage of an e-Portfolio?",
+                options: ["a. It is harder to share.", "b. It can include multimedia elements like video and audio.", "c. It requires no internet.", "d. It cannot be edited."],
+                ans: 1,
+                hint: "Multimedia.",
+                rat: "e-Portfolios allow for the inclusion of diverse media types (video, audio) that paper portfolios cannot easily hold."
+            },
+            {
+                q: "70. What is the first thing a teacher should do before creating an assessment?",
+                options: ["a. Buy a red pen.", "b. Identify the learning outcomes.", "c. Print the answer keys.", "d. Arrange the chairs."],
+                ans: 1,
+                hint: "What is the goal?",
+                rat: "Assessment must align with outcomes, so identifying the outcomes is always step one."
+            },
+            {
+                q: "71. In the K-12 grading system, 'Quarterly Assessment' is worth what percentage in core subjects for Senior High School?",
+                options: ["a. 10%", "b. 25%", "c. 40%", "d. 50%"],
+                ans: 1,
+                hint: "Core subjects.",
+                rat: "For Core Subjects in SHS, Quarterly Assessment is usually 25%."
+            },
+            {
+                q: "72. Authentic assessment focuses on __________-order thinking skills.",
+                options: ["a. Lower", "b. Middle", "c. Higher", "d. Zero"],
+                ans: 2,
+                hint: "HOTS.",
+                rat: "Authentic tasks usually require application, synthesis, and evaluation (Higher-Order Thinking Skills)."
+            },
+            {
+                q: "73. What is 'Assessment as Learning' designed to develop?",
+                options: ["a. Teacher's patience", "b. Student's metacognitive skills", "c. School's reputation", "d. Textbook accuracy"],
+                ans: 1,
+                hint: "Thinking about thinking.",
+                rat: "It develops metacognitionâ€”the ability to monitor and regulate one's own learning."
+            },
+            {
+                q: "74. Which of the following is a psychomotor skill?",
+                options: ["a. Reciting a poem", "b. Solving a math problem", "c. Typing on a keyboard", "d. Valuing honesty"],
+                ans: 2,
+                hint: "Physical movement.",
+                rat: "Typing involves fine motor coordination. Reciting is cognitive/verbal; Valuing is affective."
+            },
+            {
+                q: "75. An assessment is 'Valid' if it:",
+                options: ["a. Is easy to take.", "b. Measures what it intends to measure.", "c. Is given at the end of the year.", "d. Is graded by two people."],
+                ans: 1,
+                hint: "Truth/Accuracy.",
+                rat: "Validity is the extent to which a test measures what it claims to measure."
+            },
+            {
+                q: "76. The 'Affective Domain' was developed by:",
+                options: ["a. Benjamin Bloom", "b. David Krathwohl", "c. Anita Harrow", "d. Robert Gagne"],
+                ans: 1,
+                hint: "Not Bloom (Cognitive) or Harrow (Psychomotor).",
+                rat: "David Krathwohl (along with Bloom) developed the Affective Domain taxonomy."
+            },
+            {
+                q: "77. 'Expanded Opportunities' in OBE means:",
+                options: ["a. Giving more homework.", "b. Allowing more than one chance for students to achieve an outcome.", "c. Extending the school day by 5 hours.", "d. Increasing the number of subjects."],
+                ans: 1,
+                hint: "Not time-bound.",
+                rat: "It means not strictly penalizing students for needing more time or different methods to learn."
+            },
+            {
+                q: "78. Which is a 'Realistic' assessment task?",
+                options: ["a. Identifying parts of a car on a worksheet.", "b. Changing the oil of a car in a shop.", "c. Defining 'internal combustion' in a test.", "d. Matching tools to their names."],
+                ans: 1,
+                hint: "Doing the job.",
+                rat: "Changing oil is a real-world task; the others are academic exercises about the car."
+            },
+            {
+                q: "79. A 'Descriptor' in a rubric helps the teacher to:",
+                options: ["a. Define the criteria.", "b. Distinguish between levels of performance.", "c. Calculate the total grade.", "d. Name the assignment."],
+                ans: 1,
+                hint: "Difference between Good and Excellent.",
+                rat: "Descriptors describe what performance looks like at each level (e.g., '3 pts: Minimal errors', '4 pts: No errors')."
+            },
+            {
+                q: "80. Which of the following is a 'Product'?",
+                options: ["a. A speech delivered in class", "b. A research paper", "c. A gymnastics routine", "d. A group discussion"],
+                ans: 1,
+                hint: "Tangible item.",
+                rat: "A research paper is a tangible product. Speech, routine, and discussion are performances/processes."
+            },
+            {
+                q: "81. 'Assessment of Learning' occurs __________ instruction.",
+                options: ["a. Before", "b. During", "c. After", "d. Instead of"],
+                ans: 2,
+                hint: "At the end.",
+                rat: "Since it is summative, it happens after instruction is complete."
+            },
+            {
+                q: "82. In the 'Valuing' level, a student might:",
+                options: ["a. Listen to a lecture.", "b. Debate a social issue based on commitment.", "c. Follow a lab procedure.", "d. Copy a definition."],
+                ans: 1,
+                hint: "Commitment.",
+                rat: "Debating based on commitment shows that the student values the issue enough to take a stand."
+            },
+            {
+                q: "83. Traditional assessment often measures __________ knowledge.",
+                options: ["a. Deep", "b. Superficial/Declarative", "c. Procedural", "d. Tacit"],
+                ans: 1,
+                hint: "Facts.",
+                rat: "Traditional tests often focus on declarative knowledge (facts/recall) rather than deep application."
+            },
+            {
+                q: "84. Which of these is NOT a principle of OBE?",
+                options: ["a. Clarity of Focus", "b. Design Down", "c. Bell-Curve Distribution", "d. High Expectations"],
+                ans: 2,
+                hint: "Norm-referenced.",
+                rat: "OBE opposes the bell curve (norm-referenced grading) because it implies some students must fail. OBE believes all can succeed."
+            },
+            {
+                q: "85. 'Metacognition' is most associated with:",
+                options: ["a. Assessment of Learning", "b. Assessment as Learning", "c. Summative Assessment", "d. Standardized Testing"],
+                ans: 1,
+                hint: "Reflecting.",
+                rat: "Assessment AS Learning is defined by student self-regulation and metacognition."
+            },
+            {
+                q: "86. A portfolio that includes drafts, notes, and final products is a:",
+                options: ["a. Process Portfolio", "b. Best-Work Portfolio", "c. Celebration Portfolio", "d. Final Portfolio"],
+                ans: 0,
+                hint: "Shows the work in progress.",
+                rat: "A Process Portfolio (or working portfolio) documents the stages of learning."
+            },
+            {
+                q: "87. In a holistic rubric, the teacher:",
+                options: ["a. Grades each criterion individually.", "b. Looks at the work as a whole.", "c. Uses only two levels (Pass/Fail).", "d. Does not provide a score."],
+                ans: 1,
+                hint: "Global view.",
+                rat: "Holistic means evaluating the 'whole' rather than the parts."
+            },
+            {
+                q: "88. 'Characterization' in the affective domain means:",
+                options: ["a. Acting in a play.", "b. Having a value system that controls one's behavior.", "c. Describing a character in a book.", "d. Identifying values in a list."],
+                ans: 1,
+                hint: "Lifestyle.",
+                rat: "It is the internalization of values such that they consistently control behavior (character)."
+            },
+            {
+                q: "89. Performance-based assessment is __________ because it requires students to perform a task.",
+                options: ["a. Passive", "b. Active", "c. Theoretical", "d. Subjective"],
+                ans: 1,
+                hint: "Doing.",
+                rat: "It is active participation, not passive reception."
+            },
+            {
+                q: "90. Which is a 'Performance Task' in the context of DepEd?",
+                options: ["a. Final Exam", "b. Unit Quiz", "c. Portfolio or Project", "d. Attendance"],
+                ans: 2,
+                hint: "Output.",
+                rat: "Portfolios, projects, and demonstrations are considered Performance Tasks."
+            },
+            {
+                q: "91. Assessment __________ instruction and learning.",
+                options: ["a. Is separate from", "b. Informs", "c. Replaces", "d. Hinders"],
+                ans: 1,
+                hint: "Guides.",
+                rat: "Assessment provides the data that informs how instruction should proceed."
+            },
+            {
+                q: "92. In 'Clarity of Focus,' the 'Focus' is on:",
+                options: ["a. The teacher's lecture.", "b. The student's grades.", "c. The learning outcomes.", "d. The classroom environment."],
+                ans: 2,
+                hint: "The Goal.",
+                rat: "The focus is always on the Learning Outcomes."
+            },
+            {
+                q: "93. Which is an example of a psychomotor task?",
+                options: ["a. Summarizing a story.", "b. Playing a musical instrument.", "c. Appreciating art.", "d. Naming the capitals of Asia."],
+                ans: 1,
+                hint: "Movement/Skill.",
+                rat: "Playing an instrument requires physical coordination and motor skills."
+            },
+            {
+                q: "94. A 'Rubric' is most useful for tasks that are:",
+                options: ["a. Binary (Yes/No).", "b. Complex and subjective.", "c. Simple recall.", "d. Multiple-choice."],
+                ans: 1,
+                hint: "Not Black and White.",
+                rat: "Rubrics are needed when judgment is subjective and the task is complex (like an essay or project)."
+            },
+            {
+                q: "95. Assessment __________ learning is used to identify what students can do at the end of a unit.",
+                options: ["a. For", "b. As", "c. Of", "d. With"],
+                ans: 2,
+                hint: "Summative.",
+                rat: "Assessment OF learning measures achievement at the end."
+            },
+            {
+                q: "96. A student's 'Self-Assessment' is a form of:",
+                options: ["a. Assessment of Learning", "b. Assessment as Learning", "c. Summative Assessment", "d. External Assessment"],
+                ans: 1,
+                hint: "Self-monitoring.",
+                rat: "Self-assessment is the core of Assessment AS Learning."
+            },
+            {
+                q: "97. In OBE, 'Outcomes' are __________?",
+                options: ["a. Inputs", "b. Processes", "c. Demonstrations of learning", "d. Textbook chapters"],
+                ans: 2,
+                hint: "Results.",
+                rat: "Outcomes are clear demonstrations of learning."
+            },
+            {
+                q: "98. 'Authentic assessment' requires the use of __________?",
+                options: ["a. Scraps of paper", "b. Real-world contexts", "c. Only the library", "d. High-tech computers only"],
+                ans: 1,
+                hint: "Realistic.",
+                rat: "Authenticity comes from the connection to real-world contexts."
+            },
+            {
+                q: "99. Which is a characteristic of 'Analytical' rubrics?",
+                options: ["a. It is faster to grade.", "b. It provides a profile of strengths and weaknesses.", "c. It gives only one score.", "d. It is used for quick feedback."],
+                ans: 1,
+                hint: "Detailed profile.",
+                rat: "Because it breaks down the score, it shows exactly where the student is strong or weak."
+            },
+            {
+                q: "100. The 'Psychomotor Domain' relates to __________?",
+                options: ["a. Feelings", "b. Thinking", "c. Physical/Motor skills", "d. Spiritual values"],
+                ans: 2,
+                hint: "Movement.",
+                rat: "Psychomotor refers to physical movement and motor skills."
+            },
+            {
+                q: "101. 'Assessment for Learning' helps the teacher to __________?",
+                options: ["a. Rank students.", "b. Adjust instruction.", "c. Fail students.", "d. Record final grades."],
+                ans: 1,
+                hint: "Change teaching.",
+                rat: "The purpose is to use the data to adjust instruction to better meet student needs."
+            },
+            {
+                q: "102. Which is a 'High Expectations' strategy?",
+                options: ["a. Grading on a curve.", "b. Providing 'scaffolding' to help students reach high standards.", "c. Giving very easy tests.", "d. Only teaching the smartest students."],
+                ans: 1,
+                hint: "Support.",
+                rat: "Scaffolding provides the support needed for all students to reach the high expectations."
+            },
+            {
+                q: "103. In Krathwohl's taxonomy, 'Receiving' is the __________ level.",
+                options: ["a. Highest", "b. Middle", "c. Lowest", "d. Most complex"],
+                ans: 2,
+                hint: "First step.",
+                rat: "Receiving is the base level (willingness to attend)."
+            },
+            {
+                q: "104. A portfolio is 'purposeful' because it is NOT __________?",
+                options: ["a. Graded", "b. A random collection of papers", "c. Required by the school", "d. Electronic"],
+                ans: 1,
+                hint: "Organized vs Random.",
+                rat: "A portfolio must be a selection, not just a random pile of papers."
+            },
+            {
+                q: "105. 'Reliability' refers to the __________ of assessment results.",
+                options: ["a. Meaningfulness", "b. Consistency", "c. Truthfulness", "d. Usefulness"],
+                ans: 1,
+                hint: "Repeatability.",
+                rat: "Reliability is defined as the consistency of results."
+            },
+            {
+                q: "106. In the K-12 system, the minimum grade to pass a subject is __________?",
+                options: ["a. 50", "b. 60", "c. 75", "d. 70"],
+                ans: 2,
+                hint: "Standard pass.",
+                rat: "75 is the transmuted passing grade."
+            },
+            {
+                q: "107. 'Alternative Assessment' is often called 'alternative' because it is an alternative to __________?",
+                options: ["a. Teachers", "b. Traditional paper-and-pencil tests", "c. Books", "d. Schooling"],
+                ans: 1,
+                hint: "Not the usual.",
+                rat: "It offers an alternative to the traditional standardized testing methods."
+            },
+            {
+                q: "108. Which is a component of a 'Performance Task'?",
+                options: ["a. A prompt/task description", "b. A scoring rubric", "c. A clear outcome", "d. All of the above"],
+                ans: 3,
+                hint: "Everything needed.",
+                rat: "A good performance task needs instructions (prompt), a goal (outcome), and a way to grade it (rubric)."
+            },
+            {
+                q: "109. 'Reflective Practice' is part of which assessment type?",
+                options: ["a. Assessment of Learning", "b. Assessment as Learning", "c. Summative Assessment", "d. Diagnostic Assessment"],
+                ans: 1,
+                hint: "Reflection.",
+                rat: "Reflection is the key mechanism of Assessment AS Learning."
+            },
+            {
+                q: "110. Which is an example of an 'Outcome'?",
+                options: ["a. 'The teacher will explain the law of gravity.'", "b. 'The student will be able to calculate the force of gravity.'", "c. 'The class will watch a video on gravity.'", "d. 'The textbook has 5 pages on gravity.'"],
+                ans: 1,
+                hint: "Student ability.",
+                rat: "Outcomes describe what the student can do ('calculate'), not what the teacher does or what materials are used."
+            },
+            {
+                q: "111. 'Analytic' rubrics are better for __________?",
+                options: ["a. Formative assessment (providing feedback)", "b. Final examinations", "c. Quick grading", "d. Large-scale standardized tests"],
+                ans: 0,
+                hint: "Detailed help.",
+                rat: "Because they provide specific feedback on different aspects, they are excellent for formative assessment."
+            },
+            {
+                q: "112. In the 'Responding' level of the affective domain, the student is __________?",
+                options: ["a. Listening", "b. Actively involved", "c. Making a philosophy", "d. Resisting the value"],
+                ans: 1,
+                hint: "Reacting.",
+                rat: "Responding implies active participation or reaction."
+            },
+            {
+                q: "113. 'Traditional Assessment' usually asks students to __________?",
+                options: ["a. Demonstrate a skill.", "b. Select a response.", "c. Create a product.", "d. Solve a real-world problem."],
+                ans: 1,
+                hint: "Multiple Choice.",
+                rat: "Traditional tests (MCQ, True/False) ask students to select the correct answer rather than construct it."
+            },
+            {
+                q: "114. OBE is 'Learner-__________.",
+                options: ["a. Centered", "b. Passive", "c. Driven", "d. Ignored"],
+                ans: 0,
+                hint: "Focus on student.",
+                rat: "OBE places the learner at the center of the process."
+            },
+            {
+                q: "115. A 'Descriptor' in a rubric describes the __________?",
+                options: ["a. Grade", "b. Quality of work at a specific level", "c. The student's name", "d. The teacher's feedback"],
+                ans: 1,
+                hint: "What it looks like.",
+                rat: "Descriptors provide the qualitative description of performance at each score level."
+            },
+            {
+                q: "116. In the K to 12 grading system, grades are reported as __________?",
+                options: ["a. Letters (A, B, C)", "b. Percentages (0-100)", "c. Decimals", "d. Pass/Fail"],
+                ans: 1,
+                hint: "Numbers.",
+                rat: "Grades are reported as whole numbers (e.g., 85, 90)."
+            },
+            {
+                q: "117. 'Formative' assessment is done __________?",
+                options: ["a. To determine the final grade.", "b. To monitor student learning.", "c. To select students for honors.", "d. To compare schools."],
+                ans: 1,
+                hint: "Monitoring.",
+                rat: "The goal is to monitor progress and provide feedback, not to assign a final grade."
+            },
+            {
+                q: "118. Which of these is an example of 'Assessment as Learning'?",
+                options: ["a. Peer-assessment using a rubric", "b. Final project", "c. Unit test", "d. Entrance exam"],
+                ans: 0,
+                hint: "Peers/Self.",
+                rat: "Peer and self-assessment involve students in the assessment process, characteristic of Assessment AS Learning."
+            },
+            {
+                q: "119. A 'Checklist' is different from a 'Rubric' because it __________?",
+                options: ["a. Has more levels of quality.", "b. Only indicates if a trait is present or absent (Yes/No).", "c. Is harder to make.", "d. Is only for teachers."],
+                ans: 1,
+                hint: "Yes/No.",
+                rat: "Checklists are binary (Present/Absent), whereas rubrics describe levels of quality."
+            },
+            {
+                q: "120. 'Design Down' starts with the __________?",
+                options: ["a. Instructional activities", "b. Exit outcomes", "c. Classroom decorations", "d. Teacher's guide"],
+                ans: 1,
+                hint: "The End.",
+                rat: "It starts with the Exit Outcomes (what students can do at the end)."
+            },
+            {
+                q: "121. In the affective domain, 'Valuing' is based on __________?",
+                options: ["a. External rewards", "b. Internalized standards", "c. Teacher's commands", "d. Textbook definitions"],
+                ans: 1,
+                hint: "Inside.",
+                rat: "Valuing comes from an internalized commitment to a standard or belief."
+            },
+            {
+                q: "122. Which is a drawback of traditional assessment?",
+                options: ["a. It is hard to grade.", "b. It may not reflect real-world abilities.", "c. It is very expensive.", "d. It takes too much time to administer."],
+                ans: 1,
+                hint: "Artificial.",
+                rat: "Traditional tests often fail to measure how students apply knowledge in real-world contexts."
+            },
+            {
+                q: "123. A 'Portfolio' provides a __________ of student achievement.",
+                options: ["a. Snapshot", "b. Longitudinal/Long-term view", "c. Negative view", "d. Statistical view"],
+                ans: 1,
+                hint: "Over time.",
+                rat: "Portfolios show development over time (longitudinal), unlike a test which is a snapshot."
+            },
+            {
+                q: "124. 'Cognitive' levels include 'Remembering' and 'Understanding.' Which comes first?",
+                options: ["a. Remembering", "b. Understanding", "c. Neither", "d. They happen at the same time"],
+                ans: 0,
+                hint: "Base level.",
+                rat: "In Bloom's Taxonomy, Remembering (recall) is the foundational level before Understanding."
+            },
+            {
+                q: "125. 'Psychomotor' outcomes are best assessed through __________?",
+                options: ["a. Multiple-choice tests", "b. Performance/Observation", "c. Essays", "d. True/False"],
+                ans: 1,
+                hint: "Watching them move.",
+                rat: "You must observe the physical skill (performance) to assess it accurately."
+            },
+            {
+                q: "126. In OBE, 'Assessment' must be __________ with the outcomes.",
+                options: ["a. Aligned", "b. Different", "c. Harder", "d. Simpler"],
+                ans: 0,
+                hint: "Match.",
+                rat: "Constructive Alignment is key: assessment must match the intended learning outcomes."
+            },
+            {
+                q: "127. Which is an example of 'Authentic' context?",
+                options: ["a. Calculating area on a worksheet", "b. Measuring the classroom to buy new carpet", "c. Reading about area in a book", "d. Watching a video on area"],
+                ans: 1,
+                hint: "Real problem.",
+                rat: "Measuring a real room for a real purpose (buying carpet) is an authentic task."
+            },
+            {
+                q: "128. 'Holistic' rubrics are best for __________?",
+                options: ["a. Detailed feedback", "b. Quick, overall evaluation", "c. Small-scale projects", "d. Improving specific skills"],
+                ans: 1,
+                hint: "Fast/General.",
+                rat: "They are efficient for quick, global evaluations (e.g., large scale writing assessments)."
+            },
+            {
+                q: "129. 'Assessment for Learning' is also known as __________?",
+                options: ["a. Summative", "b. Formative", "c. Terminal", "d. Standardized"],
+                ans: 1,
+                hint: "Forming.",
+                rat: "Formative assessment is the synonym for Assessment FOR Learning."
+            },
+            {
+                q: "130. 'Assessment of Learning' is also known as __________?",
+                options: ["a. Formative", "b. Summative", "c. Diagnostic", "d. Continuous"],
+                ans: 1,
+                hint: "Summary.",
+                rat: "Summative assessment is the synonym for Assessment OF Learning."
+            },
+            {
+                q: "131. In the K to 12 grading system, 'Quarterly Assessment' for Grades 1-10 is weighted at __________?",
+                options: ["a. 10%", "b. 20%", "c. 30%", "d. 40%"],
+                ans: 1,
+                hint: "One fifth.",
+                rat: "Quarterly Assessment is 20% for all subjects in Grades 1-10."
+            },
+            {
+                q: "132. What is the main purpose of 'Self-Reflection' in a portfolio?",
+                options: ["a. To make the portfolio look thicker", "b. To help the student think about their own learning", "c. To give the teacher a break", "d. To replace the rubric"],
+                ans: 1,
+                hint: "Metacognition.",
+                rat: "Reflection turns the portfolio from a scrapbook into a learning tool by engaging metacognition."
+            },
+            {
+                q: "133. 'Authentic Assessment' is 'process' and 'product' __________?",
+                options: ["a. Oriented", "b. Disoriented", "c. Neutral", "d. Minimalist"],
+                ans: 0,
+                hint: "Focus.",
+                rat: "It can focus on both the process (doing it) and the product (the result)."
+            },
+            {
+                q: "134. Which of these is a 'Cognitive' outcome?",
+                options: ["a. Drawing a map", "b. Solving a physics problem", "c. Appreciating a poem", "d. Respecting elders"],
+                ans: 1,
+                hint: "Thinking/Calculating.",
+                rat: "Solving a problem is a mental/cognitive task. Drawing is psychomotor; Appreciating/Respecting are affective."
+            },
+            {
+                q: "135. 'Validity' means the test __________?",
+                options: ["a. Is consistent.", "b. Measures what it's supposed to.", "c. Is cheap.", "d. Is long."],
+                ans: 1,
+                hint: "Accuracy.",
+                rat: "Validity checks if the test actually measures the target construct."
+            },
+            {
+                q: "136. In the affective domain, which is the most complex level?",
+                options: ["a. Receiving", "b. Valuing", "c. Characterization", "d. Responding"],
+                ans: 2,
+                hint: "Lifestyle.",
+                rat: "Characterization is the highest/most complex level."
+            },
+            {
+                q: "137. Which is a characteristic of 'Effective Feedback'?",
+                options: ["a. It is vague.", "b. It is timely and specific.", "c. It is only given at the end of the year.", "d. It is always negative."],
+                ans: 1,
+                hint: "Useful now.",
+                rat: "Feedback must be timely (so they can use it) and specific (so they know what to fix)."
+            },
+            {
+                q: "138. 'High Expectations' in OBE means we believe __________?",
+                options: ["a. Only some can learn.", "b. All students can achieve high standards.", "c. No one can learn.", "d. The test should be impossible."],
+                ans: 1,
+                hint: "Success for all.",
+                rat: "The core belief of OBE is that all students can learn and succeed if given the right conditions."
+            },
+            {
+                q: "139. A 'Showcase Portfolio' is used for __________?",
+                options: ["a. Job applications or graduation", "b. Daily homework", "c. Punishment", "d. Storing old tests"],
+                ans: 0,
+                hint: "Showing off.",
+                rat: "It showcases the best work for external audiences like employers."
+            },
+            {
+                q: "140. 'Outcome-Based' means the focus is on the __________?",
+                options: ["a. Teacher's input", "b. Student's output/result", "c. The process only", "d. The school building"],
+                ans: 1,
+                hint: "The result.",
+                rat: "The focus shifts from inputs (teaching) to outcomes (student learning results)."
+            },
+            {
+                q: "141. 'Authentic Assessment' is often __________?",
+                options: ["a. Qualitative", "b. Quantitative only", "c. Binary", "d. Disconnected"],
+                ans: 0,
+                hint: "Descriptive.",
+                rat: "Authentic assessment often relies on qualitative judgment (rubrics) rather than just quantitative scores."
+            },
+            {
+                q: "142. A rubric is a __________ assessment tool.",
+                options: ["a. Subjective", "b. Criteria-based", "c. Norm-referenced", "d. Random"],
+                ans: 1,
+                hint: "Rules.",
+                rat: "It is based on specific criteria."
+            },
+            {
+                q: "143. 'Psychomotor' domain refers to __________?",
+                options: ["a. Thoughts", "b. Feelings", "c. Neuromuscular coordination", "d. Ethical values"],
+                ans: 2,
+                hint: "Nerves and muscles.",
+                rat: "It involves the coordination of brain and muscle (neuromuscular)."
+            },
+            {
+                q: "144. In the K-12 system, 'Performance Tasks' in Languages/AP/EsP for Grades 1-10 are worth __________?",
+                options: ["a. 30%", "b. 40%", "c. 50%", "d. 60%"],
+                ans: 2,
+                hint: "Half.",
+                rat: "Performance Tasks are weighted 50% in Languages, AP, and EsP (Grades 1-10)."
+            },
+            {
+                q: "145. 'Placement Assessment' happens __________?",
+                options: ["a. During the lesson", "b. At the end of the term", "c. Before instruction begins", "d. After graduation"],
+                ans: 2,
+                hint: "Pre-test.",
+                rat: "It places students before instruction starts."
+            },
+            {
+                q: "146. A 'Scoring Scale' in a rubric can be __________?",
+                options: ["a. Numerical", "b. Descriptive", "c. Both A and B", "d. Neither"],
+                ans: 2,
+                hint: "Numbers or Words.",
+                rat: "Scales can use numbers (1-4) or descriptions (Novice-Expert)."
+            },
+            {
+                q: "147. 'Metacognitive' refers to __________?",
+                options: ["a. Knowing the facts", "b. Thinking about one's own thinking", "c. Physical exercise", "d. Emotional outbursts"],
+                ans: 1,
+                hint: "Meta = Above.",
+                rat: "Metacognition is thinking about the process of thinking/learning."
+            },
+            {
+                q: "148. 'Design Down' is a principle of __________?",
+                options: ["a. Traditional Education", "b. Outcome-Based Education", "c. Teacher-Centered Education", "d. Subject-Centered Education"],
+                ans: 1,
+                hint: "The topic of this quiz.",
+                rat: "It is one of the four key principles of Spady's OBE."
+            },
+            {
+                q: "149. 'Authentic tasks' should be __________?",
+                options: ["a. Meaningful and realistic", "b. Boring", "c. Abstract", "d. Disconnected from life"],
+                ans: 0,
+                hint: "Relevant.",
+                rat: "Authenticity requires meaningfulness and realism."
+            },
+            {
+                q: "150. 'Assessment' is an __________ part of the teaching-learning process.",
+                options: ["a. Extra", "b. Integral", "c. Optional", "d. External"],
+                ans: 1,
+                hint: "Essential.",
+                rat: "Assessment is integral; you cannot effectively teach without assessing progress."
+            }
+];

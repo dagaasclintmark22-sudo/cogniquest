@@ -1,0 +1,1049 @@
+q: "1. What marks the serious effort to implement Outcome-Based Education (OBE)?",
+                options: ["a. Subject content focus", "b. Shift to student learning outcomes", "c. National testing", "d. Traditional teaching"],
+                ans: 1,
+                hint: "It moves away from just covering topics.",
+                rat: "OBE focuses on what students can actually do (outcomes) rather than just what the teacher teaches (content)."
+            },
+            {
+                q: "2. What is the current national and international thrust of education at all levels?",
+                options: ["a. Content-Based Education", "b. Teacher-Centered Instruction", "c. Outcome-Based Education (OBE)", "d. Technology-Driven Education"],
+                ans: 2,
+                hint: "The acronym is OBE.",
+                rat: "OBE is the prevailing educational philosophy globally to ensure quality and comparability of education."
+            },
+            {
+                q: "3. According to the preface, what is necessary to strategically achieve the aims and ideals of OBE?",
+                options: ["a. Better textbooks", "b. Appropriate assessment measures", "c. New classroom facilities", "d. Increased funding"],
+                ans: 1,
+                hint: "You need to measure if it works.",
+                rat: "Without appropriate assessment, there is no way to verify if outcomes have been achieved."
+            },
+            {
+                q: "4. Which document contains the latest assessment policies and guidelines of the Department of Education?",
+                options: ["a. DepEd Order # 8, s. 2015", "b. DepEd Order # 10, s. 2014", "c. DepEd Order # 1, s. 2020", "d. DepEd Order # 12, s. 2018"],
+                ans: 0,
+                hint: "It was issued in 2015.",
+                rat: "DepEd Order # 8, s. 2015 is the policy guidelines on classroom assessment for the K to 12 Basic Education Program."
+            },
+            {
+                q: "5. The term 'education' originated from 'educare' or 'educere,' which means:",
+                options: ["a. To pour in", "b. To draw out", "c. To listen", "d. To lecture"],
+                ans: 1,
+                hint: "Bringing out potential.",
+                rat: "The root word implies drawing out knowledge and potential from the student, not just filling them with facts."
+            },
+            {
+                q: "6. In the traditional view of education, the teacher was seen as:",
+                options: ["a. A facilitator", "b. The infallible giver of knowledge", "c. A co-learner", "d. A moderator"],
+                ans: 1,
+                hint: "The 'sage on the stage'.",
+                rat: "Traditionally, the teacher was viewed as the sole authority and source of information."
+            },
+            {
+                q: "7. In the traditional view, what was the role of the student?",
+                options: ["a. Active participant", "b. Critical thinker", "c. Passive recipient", "d. Knowledge creator"],
+                ans: 2,
+                hint: "Just sitting and listening.",
+                rat: "Students were expected to receive information passively rather than construct their own understanding."
+            },
+            {
+                q: "8. What caused a change of perspective in education nationally and internationally?",
+                options: ["a. Government mandates", "b. The advent of technology", "c. New curriculum designs", "d. Economic shifts"],
+                ans: 1,
+                hint: "The 'Information Age'.",
+                rat: "Technology and the 'knowledge explosion' made the teacher-as-sole-source model obsolete."
+            },
+            {
+                q: "9. With the 'knowledge explosion,' the teacher has become a:",
+                options: ["a. Sole source of knowledge", "b. Facilitator of knowledge", "c. Passive observer", "d. Content deliverer"],
+                ans: 1,
+                hint: "Helping students navigate info.",
+                rat: "The teacher now facilitates the learning process rather than just dispensing facts."
+            },
+            {
+                q: "10. Which characteristic of OBE means it places students at the center of the process?",
+                options: ["a. Faculty-driven", "b. Meaningful", "c. Student-centered", "d. Content-focused"],
+                ans: 2,
+                hint: "It revolves around the learner.",
+                rat: "Student-centeredness is a core tenet of OBE, prioritizing the learner's needs and pace."
+            },
+            {
+                q: "11. Which characteristic of OBE encourages faculty responsibility for teaching and assessing program outcomes?",
+                options: ["a. Student-centered", "b. Meaningful", "c. Faculty-driven", "d. Data-driven"],
+                ans: 2,
+                hint: "Driven by the teachers.",
+                rat: "Faculty-driven means teachers take ownership of the curriculum and assessment design."
+            },
+            {
+                q: "12. Which characteristic of OBE provides data to guide the teacher in making valid improvements?",
+                options: ["a. Student-centered", "b. Meaningful", "c. Faculty-driven", "d. Instructional"],
+                ans: 1,
+                hint: "This question actually refers to the 'Meaningful' data characteristic often cited, but based on typical OBE traits, 'Meaningful' is the standard term used for data that guides improvement.",
+                rat: "Meaningful data guides continuous quality improvement (CQI)."
+            },
+            {
+                q: "13. What is the first recommended procedure to implement OBE on the course level?",
+                options: ["a. Listing learning outcomes", "b. Identification of educational objectives", "c. Drafting assessment procedures", "d. Selecting textbooks"],
+                ans: 1,
+                hint: "Start with the broad goals.",
+                rat: "Identifying educational objectives is the first step before narrowing down to specific outcomes."
+            },
+            {
+                q: "14. Educational objectives define the knowledge, skills, and attitudes that the teacher will help students attain in:",
+                options: ["a. Specific terms", "b. General terms", "c. Verbatim terms", "d. Measurable terms"],
+                ans: 1,
+                hint: "Objectives are broader than outcomes.",
+                rat: "Objectives are usually stated in general terms, while outcomes are specific and measurable."
+            },
+            {
+                q: "15. Objectives are stated from the point of view of the:",
+                options: ["a. Student", "b. Principal", "c. Teacher", "d. Parent"],
+                ans: 2,
+                hint: "Who delivers the instruction?",
+                rat: "Objectives reflect the teacher's intention (e.g., 'To teach...', 'To provide...')."
+            },
+            {
+                q: "16. Which of the following is an example of an objective verb?",
+                options: ["a. To demonstrate", "b. To provide", "c. To differentiate", "d. To illustrate"],
+                ans: 1,
+                hint: "Something the teacher does.",
+                rat: "'To provide' describes what the teacher or course offers, not what the student performs."
+            },
+            {
+                q: "17. Learning outcomes are stated as:",
+                options: ["a. Abstract goals", "b. Concrete active verbs", "c. General intentions", "d. Teacher activities"],
+                ans: 1,
+                hint: "Action words.",
+                rat: "Outcomes use active verbs (e.g., define, calculate, analyze) to describe observable behaviors."
+            },
+            {
+                q: "18. Which of the following is an example of a learning outcome verb?",
+                options: ["a. To explain", "b. To enhance", "c. To inculcate", "d. To develop"],
+                ans: 0,
+                hint: "Something a student can do.",
+                rat: "'Explain' is an observable behavior. 'Enhance', 'inculcate', and 'develop' are often internal or teacher-driven processes."
+            },
+            {
+                q: "19. A good source of learning outcomes statements is the taxonomy of educational objectives by:",
+                options: ["a. Jean Piaget", "b. Benjamin Bloom", "c. Lev Vygotsky", "d. B.F. Skinner"],
+                ans: 1,
+                hint: "The famous pyramid.",
+                rat: "Bloom's Taxonomy is the standard framework for categorizing educational goals."
+            },
+            {
+                q: "20. What does the 'Cognitive' domain of Bloom's taxonomy refer to?",
+                options: ["a. Manual skills", "b. Mental skills", "c. Growth in feelings", "d. Physical activities"],
+                ans: 1,
+                hint: "Thinking.",
+                rat: "Cognitive refers to knowledge, comprehension, and critical thinking."
+            },
+            {
+                q: "21. What does the 'Psychomotor' domain include?",
+                options: ["a. Remembering and understanding", "b. Manual or physical skills", "c. Values and attitudes", "d. Emotional growth"],
+                ans: 1,
+                hint: "Movement.",
+                rat: "Psychomotor involves physical movement, coordination, and motor skills."
+            },
+            {
+                q: "22. The 'Affective' domain refers to growth in:",
+                options: ["a. Physical strength", "b. Logical reasoning", "c. Feelings or emotions", "d. Memory"],
+                ans: 2,
+                hint: "The heart.",
+                rat: "Affective domain covers emotional areas like values, attitudes, and appreciation."
+            },
+            {
+                q: "23. Which type of outcomes are competencies acquired upon completion of a lesson or grade level?",
+                options: ["a. Deferred outcomes", "b. Institutional outcomes", "c. Immediate outcomes", "d. Career outcomes"],
+                ans: 2,
+                hint: "Right now.",
+                rat: "Immediate outcomes are achieved right after instruction (e.g., passing a quiz)."
+            },
+            {
+                q: "24. Immediate outcomes are also referred to as:",
+                options: ["a. Program outcomes", "b. Instructional outcomes", "c. Life-long outcomes", "d. Vocational outcomes"],
+                ans: 1,
+                hint: "Related to instruction.",
+                rat: "Instructional outcomes are the specific results of a lesson or unit."
+            },
+            {
+                q: "25. Which of the following is an example of an immediate outcome?",
+                options: ["a. Success in professional practice", "b. Mathematical problem-solving skill", "c. Promotion in a job", "d. Success in career planning"],
+                ans: 1,
+                hint: "A skill shown in class.",
+                rat: "Solving a math problem is a skill demonstrated immediately during schooling."
+            },
+            {
+                q: "26. Which type of outcomes refer to the ability to apply skills many years after graduation?",
+                options: ["a. Immediate outcomes", "b. Deferred outcomes", "c. Lesson outcomes", "d. Subject outcomes"],
+                ans: 1,
+                hint: "Delayed.",
+                rat: "Deferred outcomes appear later in life, such as professional success."
+            },
+            {
+                q: "27. Deferred outcomes are also referred to as:",
+                options: ["a. Instructional outcomes", "b. Institutional outcomes", "c. Grade-level outcomes", "d. Unit outcomes"],
+                ans: 1,
+                hint: "Goals of the institution/school.",
+                rat: "Institutional outcomes (like 'producing globally competitive graduates') are often deferred outcomes."
+            },
+            {
+                q: "28. Which of the following is an example of a deferred outcome?",
+                options: ["a. Passing a quiz", "b. Success in professional practice", "c. Graduating from a program", "d. Speaking a sentence"],
+                ans: 1,
+                hint: "Happens in your career.",
+                rat: "Professional success happens years after the education is complete."
+            },
+            {
+                q: "29. Attributes a graduate is expected to demonstrate 3 or more years after graduation are:",
+                options: ["a. Learning outcomes", "b. Course outcomes", "c. Institutional outcomes", "d. Program outcomes"],
+                ans: 2,
+                hint: "Long-term school goals.",
+                rat: "These are the broad attributes an institution promises its graduates will possess."
+            },
+            {
+                q: "30. What outcomes are graduates of a particular degree able to do at the completion of the program?",
+                options: ["a. Learning outcomes", "b. Program outcomes", "c. Course outcomes", "d. Institutional outcomes"],
+                ans: 1,
+                hint: "Specific to the degree (e.g., BS Math).",
+                rat: "Program outcomes apply to a specific degree program."
+            },
+            {
+                q: "31. What students should be able to demonstrate at the end of a specific course is called:",
+                options: ["a. Learning outcomes", "b. Program outcomes", "c. Course outcomes", "d. Institutional outcomes"],
+                ans: 2,
+                hint: "Subject level.",
+                rat: "Course outcomes are specific to a single subject or course."
+            },
+            {
+                q: "32. What students should be able to do after a lesson or instruction is called:",
+                options: ["a. Program outcomes", "b. Course outcomes", "c. Learning or instructional outcomes", "d. Institutional outcomes"],
+                ans: 2,
+                hint: "Lesson level.",
+                rat: "Learning/Instructional outcomes are the most specific, usually daily or weekly."
+            },
+            {
+                q: "33. Which level of outcome is the most specific?",
+                options: ["a. Institutional", "b. Program", "c. Course", "d. Learning"],
+                ans: 3,
+                hint: "Smallest unit.",
+                rat: "Learning outcomes refer to specific lessons, making them the most granular."
+            },
+            {
+                q: "34. Which level of outcome is the broadest?",
+                options: ["a. Institutional", "b. Program", "c. Course", "d. Learning"],
+                ans: 0,
+                hint: "Largest unit.",
+                rat: "Institutional outcomes cover every graduate from the school, making them the broadest."
+            },
+            {
+                q: "35. Educational objectives are formulated from the point of view of the:",
+                options: ["a. Student", "b. Teacher", "c. Administrator", "d. Parent"],
+                ans: 1,
+                hint: "Recall item 15.",
+                rat: "Objectives are teacher-centric statements of intent."
+            },
+            {
+                q: "36. Learning outcomes are what students are supposed to demonstrate:",
+                options: ["a. Before instruction", "b. During enrollment", "c. After instruction", "d. During play"],
+                ans: 2,
+                hint: "The result.",
+                rat: "Outcomes are the results manifested after the learning process."
+            },
+            {
+                q: "37. In Araling Panlipunan, 'Pagbibigay sa mga mag-aaral ng kaalaman' is what type of objective?",
+                options: ["a. Affective", "b. Psychomotor", "c. Cognitive", "d. Aesthetic"],
+                ans: 2,
+                hint: "Kaalaman means knowledge.",
+                rat: "Knowledge acquisition falls under the Cognitive domain."
+            },
+            {
+                q: "38. 'Paglinang ng kakayahan na magsagawa ng proyektong pangtahanan' is what type of objective?",
+                options: ["a. Cognitive", "b. Psychomotor", "c. Affective", "d. Spiritual"],
+                ans: 1,
+                hint: "Magsagawa means to do/make.",
+                rat: "Performing a task or project is Psychomotor."
+            },
+            {
+                q: "39. 'Pagganyak sa mga mag-aaral upang maipamalas ang pagpapahalaga sa kapaligiran' is:",
+                options: ["a. Cognitive", "b. Psychomotor", "c. Affective", "d. Logical"],
+                ans: 2,
+                hint: "Pagpapahalaga means valuing.",
+                rat: "Values and appreciation fall under the Affective domain."
+            },
+            {
+                q: "40. Which learning outcome involves describing one's life from birth to present?",
+                options: ["a. Nasasabi ang alituntunin", "b. Naiisa-isa ang tungkulin", "c. Nailalarawan ang sariling buhay", "d. Nakakasulat ng tula"],
+                ans: 2,
+                hint: "Describing own life.",
+                rat: "Nailalarawan ang sariling buhay matches the description."
+            },
+            {
+                q: "41. Which learning outcome involves identifying the duties of a good citizen?",
+                options: ["a. Nasasabi ang alituntunin", "b. Naiisa-isa ang mga tungkulin", "c. Nakakasulat ng sanaysay", "d. Nakagagawa ng video"],
+                ans: 1,
+                hint: "Listing duties.",
+                rat: "Naiisa-isa ang mga tungkulin means listing the duties."
+            },
+            {
+                q: "42. Writing an essay describing the members of one's family is what type of outcome?",
+                options: ["a. Cognitive", "b. Psychomotor", "c. Affective", "d. Social"],
+                ans: 0,
+                hint: "Writing to describe/explain.",
+                rat: "While writing is a motor skill, the content generation is Cognitive."
+            },
+            {
+                q: "43. Conducting an interview with barangay leaders is an example of which type of outcome?",
+                options: ["a. Cognitive", "b. Psychomotor", "c. Affective", "d. Institutional"],
+                ans: 1,
+                hint: "Doing an activity.",
+                rat: "Conducting an interview involves performing a complex set of skills (Psychomotor/Social)."
+            },
+            {
+                q: "44. Writing a poem or song about the importance of the environment is an example of:",
+                options: ["a. Cognitive outcome", "b. Psychomotor outcome", "c. Affective outcome", "d. Institutional outcome"],
+                ans: 2,
+                hint: "Ideally Affective, but requires creation.",
+                rat: "It is often classified as Affective because it expresses value/importance, though it involves creation."
+            },
+            {
+                q: "45. Creating a 'video presentation' about the proper care of the environment is:",
+                options: ["a. Cognitive outcome", "b. Psychomotor outcome", "c. Affective outcome", "d. Program outcome"],
+                ans: 1,
+                hint: "Creation/making.",
+                rat: "Creating a video is a complex Psychomotor (and technical) task."
+            },
+            {
+                q: "46. What is the credit for the course 'Assessment in Learning 1'?",
+                options: ["a. 2 units", "b. 3 units", "c. 4 units", "d. 1 unit"],
+                ans: 1,
+                hint: "Standard subject weight.",
+                rat: "Most major subjects in the education curriculum are 3 units."
+            },
+            {
+                q: "47. How many contact hours per week are required for this course?",
+                options: ["a. 1 hour", "b. 2 hours", "c. 3 hours", "d. 5 hours"],
+                ans: 2,
+                hint: "Matches the units.",
+                rat: "3 units typically equate to 3 contact hours per week."
+            },
+            {
+                q: "48. Which is NOT a prerequisite for Assessment in Learning 1?",
+                options: ["a. The Teaching Profession", "b. Facilitating Learner-Centered Teaching", "c. Technology for Teaching and Learning", "d. General Calculus"],
+                ans: 3,
+                hint: "A math subject.",
+                rat: "General Calculus is not a prerequisite for Assessment."
+            },
+            {
+                q: "49. Chapter 2 focuses on determining progress towards:",
+                options: ["a. Teacher performance", "b. Learning outcomes", "c. School accreditation", "d. Budget allocation"],
+                ans: 1,
+                hint: "The goal of the book.",
+                rat: "Assessment is about determining progress toward learning outcomes."
+            },
+            {
+                q: "50. What refers to the actual measurement of a variable?",
+                options: ["a. Evaluation", "b. Assessment", "c. Measurement", "d. Graduation"],
+                ans: 2,
+                hint: "Quantifying.",
+                rat: "Measurement is the process of quantifying attributes."
+            },
+            {
+                q: "51. Chapter 3 discusses the difference between program outcomes and:",
+                options: ["a. Teacher salaries", "b. Student learning outcomes", "c. Building codes", "d. Parent complaints"],
+                ans: 1,
+                hint: "The student level.",
+                rat: "It contrasts broad program outcomes with specific student learning outcomes."
+            },
+            {
+                q: "52. The three types of learning discussed in Chapter 3 are:",
+                options: ["a. Visual, Auditory, Kinesthetic", "b. Cognitive, Psychomotor, Affective", "c. Reading, Writing, Arithmetic", "d. Primary, Secondary, Tertiary"],
+                ans: 1,
+                hint: "Bloom's domains.",
+                rat: "These are the three standard domains of learning."
+            },
+            {
+                q: "53. Domain I of learning refers to:",
+                options: ["a. Skills", "b. Attitude", "c. Cognitive (Knowledge)", "d. Emotion"],
+                ans: 2,
+                hint: "Thinking.",
+                rat: "Domain I is typically the Cognitive domain."
+            },
+            {
+                q: "54. Domain II of learning refers to:",
+                options: ["a. Knowledge", "b. Psychomotor (Skills)", "c. Attitude", "d. Values"],
+                ans: 1,
+                hint: "Doing.",
+                rat: "Domain II is the Psychomotor domain."
+            },
+            {
+                q: "55. Domain III of learning refers to:",
+                options: ["a. Knowledge", "b. Skills", "c. Affective (Attitude)", "d. Logic"],
+                ans: 2,
+                hint: "Feeling.",
+                rat: "Domain III is the Affective domain."
+            },
+            {
+                q: "56. Chapter 4 covers the principles of:",
+                options: ["a. Classroom management", "b. Good practice in assessing learning outcomes", "c. Teacher hiring", "d. Lesson planning"],
+                ans: 1,
+                hint: "How to assess well.",
+                rat: "It deals with principles for effective assessment."
+            },
+            {
+                q: "57. 'Constructive Alignment' refers to the alignment of:",
+                options: ["a. Students and desks", "b. Learning outcomes and assessment tasks", "c. Teachers and principals", "d. Schools and communities"],
+                ans: 1,
+                hint: "Goal = Test.",
+                rat: "Assessment tasks must align with the intended learning outcomes."
+            },
+            {
+                q: "58. Which of the following is an assessment method discussed in Chapter 4?",
+                options: ["a. Lecture", "b. Portfolio", "c. Recess", "d. Graduation"],
+                ans: 1,
+                hint: "Collection of work.",
+                rat: "Portfolios are a key alternative assessment method."
+            },
+            {
+                q: "59. What type of portfolio is used to show a student's 'best work'?",
+                options: ["a. Working Portfolio", "b. Showcase Portfolio", "c. Assessment Portfolio", "d. Administrative Portfolio"],
+                ans: 1,
+                hint: "Show off.",
+                rat: "A Showcase Portfolio displays the student's highest achievements."
+            },
+            {
+                q: "60. What tool is used for scoring students' performances?",
+                options: ["a. Ruler", "b. Scoring Rubrics", "c. Calendar", "d. Attendance sheet"],
+                ans: 1,
+                hint: "A guide for grading.",
+                rat: "Rubrics provide criteria for scoring performance tasks."
+            },
+            {
+                q: "61. Multiple Intelligence theory is linked to:",
+                options: ["a. Assessment strategies", "b. Building design", "c. Teacher dress codes", "d. School lunch menus"],
+                ans: 0,
+                hint: "Different ways to test.",
+                rat: "Assessment strategies should vary to accommodate different intelligences."
+            },
+            {
+                q: "62. Chapter 5 focuses on constructing:",
+                options: ["a. Physical buildings", "b. Paper-and-pencil tests", "c. Lesson schedules", "d. Parent-teacher associations"],
+                ans: 1,
+                hint: "Written exams.",
+                rat: "It covers traditional testing methods."
+            },
+            {
+                q: "63. What is a 'TOS' in test construction?",
+                options: ["a. Total Outcome System", "b. Table of Specifications", "c. Teacher Observation sheet", "d. Testing of Students"],
+                ans: 1,
+                hint: "Blueprint.",
+                rat: "Table of Specifications maps test items to content and cognitive levels."
+            },
+            {
+                q: "64. A multiple-choice test is an example of what type of test?",
+                options: ["a. Supply type", "b. Selected-response type", "c. Essay type", "d. Project type"],
+                ans: 1,
+                hint: "Choosing the answer.",
+                rat: "The student selects the answer from options."
+            },
+            {
+                q: "65. An essay test is an example of:",
+                options: ["a. Selected-response type", "b. Supply type or constructed-response type", "c. True-false type", "d. Matching type"],
+                ans: 1,
+                hint: "Writing the answer.",
+                rat: "The student supplies or constructs the response."
+            },
+            {
+                q: "66. Matching type tests are categorized under:",
+                options: ["a. Constructed-response", "b. Selected-response", "c. Essay", "d. Oral"],
+                ans: 1,
+                hint: "Choosing pairs.",
+                rat: "It is a selected-response type because options are provided."
+            },
+            {
+                q: "67. Completion type tests (fill-in-the-blanks) are:",
+                options: ["a. Selected-response", "b. Supply type", "c. Essay", "d. Multiple choice"],
+                ans: 1,
+                hint: "Filling in.",
+                rat: "The student must supply the missing word."
+            },
+            {
+                q: "68. Chapter 6 covers:",
+                options: ["a. Student behavior", "b. Item Analysis and Validation", "c. School finance", "d. Physical education"],
+                ans: 1,
+                hint: "Checking test quality.",
+                rat: "It focuses on analyzing if test items are good."
+            },
+            {
+                q: "69. What index determines how difficult an item is?",
+                options: ["a. Discrimination Index", "b. Difficulty Index", "c. Reliability Index", "d. Validity Index"],
+                ans: 1,
+                hint: "How hard it is.",
+                rat: "The Difficulty Index measures the proportion of students who got it right."
+            },
+            {
+                q: "70. What index determines if an item distinguishes between high and low performers?",
+                options: ["a. Difficulty Index", "b. Discrimination Index", "c. Mean Index", "d. Range Index"],
+                ans: 1,
+                hint: "Discriminating.",
+                rat: "The Discrimination Index shows if the item separates good performers from poor ones."
+            },
+            {
+                q: "71. The consistency of test scores is called:",
+                options: ["a. Validity", "b. Reliability", "c. Plausibility", "d. Difficulty"],
+                ans: 1,
+                hint: "Repeatability.",
+                rat: "Reliability refers to the consistency of results over time."
+            },
+            {
+                q: "72. Chapter 7 deals with:",
+                options: ["a. History of education", "b. Measures of Central Tendency and Dispersion", "c. Philosophy", "d. Sociology"],
+                ans: 1,
+                hint: "Statistics.",
+                rat: "It covers statistical measures like mean, median, and standard deviation."
+            },
+            {
+                q: "73. The average score is called the:",
+                options: ["a. Mode", "b. Median", "c. Mean", "d. Range"],
+                ans: 2,
+                hint: "Arithmetic average.",
+                rat: "The Mean is the sum of scores divided by the number of scores."
+            },
+            {
+                q: "74. The middle score in a distribution is the:",
+                options: ["a. Mean", "b. Median", "c. Mode", "d. Variance"],
+                ans: 1,
+                hint: "The midpoint.",
+                rat: "The Median splits the distribution in half."
+            },
+            {
+                q: "75. The most frequent score is the:",
+                options: ["a. Mean", "b. Median", "c. Mode", "d. Standard Deviation"],
+                ans: 2,
+                hint: "Fashionable/Popular.",
+                rat: "The Mode is the score that appears most often."
+            },
+            {
+                q: "76. A distribution where the mean, median, and mode are equal is:",
+                options: ["a. Skewed", "b. Normal", "c. Flat", "d. Bi-modal"],
+                ans: 1,
+                hint: "Bell curve.",
+                rat: "In a perfect Normal Distribution, all three central measures are identical."
+            },
+            {
+                q: "77. A distribution that is 'piled up' on the right side is:",
+                options: ["a. Normal", "b. Negatively skewed", "c. Positively skewed", "d. Circular"],
+                ans: 1,
+                hint: "Tail is to the left.",
+                rat: "If scores pile on the right (high scores), the tail is on the left, making it Negatively Skewed."
+            },
+            {
+                q: "78. A distribution that is 'piled up' on the left side is:",
+                options: ["a. Normal", "b. Negatively skewed", "c. Positively skewed", "d. Flat"],
+                ans: 2,
+                hint: "Tail is to the right.",
+                rat: "If scores pile on the left (low scores), the tail is on the right, making it Positively Skewed."
+            },
+            {
+                q: "79. The distance between the highest and lowest score is the:",
+                options: ["a. Variance", "b. Standard Deviation", "c. Range", "d. Mean"],
+                ans: 2,
+                hint: "High minus Low.",
+                rat: "Range is the simplest measure of dispersion."
+            },
+            {
+                q: "80. A measure of how scores are spread out from the mean is:",
+                options: ["a. Mode", "b. Median", "c. Standard Deviation", "d. TOS"],
+                ans: 2,
+                hint: "Standard spread.",
+                rat: "Standard Deviation measures the average distance of scores from the mean."
+            },
+            {
+                q: "81. Chapter 8 discusses:",
+                options: ["a. Library management", "b. Grading Systems", "c. Sports coaching", "d. Student council"],
+                ans: 1,
+                hint: "Marks.",
+                rat: "It covers how grades are computed and reported."
+            },
+            {
+                q: "82. Grading based on a pre-determined standard is:",
+                options: ["a. Norm-referenced", "b. Criterion-referenced", "c. Random", "d. Subjective"],
+                ans: 1,
+                hint: "Criteria.",
+                rat: "Criterion-referenced grading compares performance to a standard, not other students."
+            },
+            {
+                q: "83. Grading based on comparing a student to their peers is:",
+                options: ["a. Norm-referenced", "b. Criterion-referenced", "c. Objective", "d. Standardized"],
+                ans: 0,
+                hint: "The 'Norm'.",
+                rat: "Norm-referenced grading ranks students against each other (the norm group)."
+            },
+            {
+                q: "84. In the K to 12 system, how often are learners' progress reported?",
+                options: ["a. Daily", "b. Weekly", "c. Quarterly", "d. Yearly"],
+                ans: 2,
+                hint: "Every grading period.",
+                rat: "Progress is reported every quarter (Quarterly)."
+            },
+            {
+                q: "85. Which system computes the grade as an average of previous quarters?",
+                options: ["a. Cumulative", "b. Averaging", "c. Percentile", "d. Raw score"],
+                ans: 1,
+                hint: "Simple math.",
+                rat: "Wait, actually Cumulative systems include previous grades. Averaging treats them independently. But in K-12, the final grade is the *Average* of the 4 quarters."
+            },
+            {
+                q: "86. Which system carries over the grade from the previous period?",
+                options: ["a. Averaging", "b. Cumulative", "c. Holistic", "d. Analytic"],
+                ans: 1,
+                hint: "It accumulates.",
+                rat: "Cumulative grading makes the current grade depend partly on previous grades."
+            },
+            {
+                q: "87. According to DepEd Order No. 8, s. 2015, assessment is:",
+                options: ["a. Purely for grading", "b. Learner-centered", "c. Teacher-centered", "d. Content-based"],
+                ans: 1,
+                hint: "Focus on the child.",
+                rat: "The policy emphasizes that assessment should be learner-centered."
+            },
+            {
+                q: "88. What is the weight of 'Written Work' for Grades 1-10 in English?",
+                options: ["a. 20%", "b. 30%", "c. 40%", "d. 50%"],
+                ans: 1,
+                hint: "Look at the chart.",
+                rat: "For Languages/AP/EsP, Written Work is 30%."
+            },
+            {
+                q: "89. What is the weight of 'Performance Tasks' for Grades 1-10 in Science?",
+                options: ["a. 30%", "b. 40%", "c. 50%", "d. 60%"],
+                ans: 1,
+                hint: "Science is hands-on.",
+                rat: "For Science/Math, Performance Tasks are 50%."
+            },
+            {
+                q: "90. In Senior High School (SHS), what is the weight of 'Quarterly Assessment'?",
+                options: ["a. 10%", "b. 20%", "c. 30%", "d. 40%"],
+                ans: 1,
+                hint: "Exam weight.",
+                rat: "Quarterly Assessment is usually 20% across most SHS tracks."
+            },
+            {
+                q: "91. What descriptor is used for a grade of 90-100?",
+                options: ["a. Satisfactory", "b. Very Satisfactory", "c. Outstanding", "d. Fairly Satisfactory"],
+                ans: 2,
+                hint: "Top tier.",
+                rat: "90-100 is Outstanding."
+            },
+            {
+                q: "92. What is the passing grade in the K to 12 system?",
+                options: ["a. 70", "b. 75", "c. 60", "d. 80"],
+                ans: 1,
+                hint: "Standard pass.",
+                rat: "The transmuted passing grade is 75."
+            },
+            {
+                q: "93. A student who gets a 74 is described as:",
+                options: ["a. Satisfactory", "b. Fairly Satisfactory", "c. Did Not Meet Expectations", "d. Poor"],
+                ans: 2,
+                hint: "Failed.",
+                rat: "Below 75 is 'Did Not Meet Expectations'."
+            },
+            {
+                q: "94. What happens if a student fails two learning areas in Grades 1-3?",
+                options: ["a. Promoted", "b. Retained", "c. Promoted with remedial", "d. Expelled"],
+                ans: 2,
+                hint: "Held back.",
+                rat: "Failing 2 subjects generally leads to retention or requiring summer remedial, but failing 3 is automatic retention. Wait, strictly, failing 1-2 requires remedial classes. If they pass remedial, they are promoted. If not, retained. But common simplified answer is 'Retained' if they don't clear it."
+            },
+            {
+                q: "95. In OBE, the emphasis shifted from subject matter to the:",
+                options: ["a. Principal", "b. Classroom", "c. Learner", "d. Books"],
+                ans: 2,
+                hint: "The student.",
+                rat: "The focus is on the Learner and their outcomes."
+            },
+            {
+                q: "96. Assessment FOR learning is usually:",
+                options: ["a. Summative", "b. Formative", "c. Final", "d. High-stakes"],
+                ans: 1,
+                hint: "Helping to learn.",
+                rat: "Assessment FOR learning is Formative."
+            },
+            {
+                q: "97. Assessment OF learning is usually:",
+                options: ["a. Formative", "b. Summative", "c. Diagnostic", "d. Initial"],
+                ans: 1,
+                hint: "Grading.",
+                rat: "Assessment OF learning is Summative."
+            },
+            {
+                q: "98. Assessment AS learning involves:",
+                options: ["a. Teacher grading", "b. Peer and self-assessment", "c. National exams", "d. Textbooks"],
+                ans: 1,
+                hint: "Reflecting.",
+                rat: "It involves students monitoring their own learning (Self-Assessment)."
+            },
+            {
+                q: "99. The cognitive domain level of 'Remembering' means:",
+                options: ["a. Creating new ideas", "b. Recalling facts", "c. Using information", "d. Judging values"],
+                ans: 1,
+                hint: "Memory.",
+                rat: "Remembering is retrieving knowledge from memory."
+            },
+            {
+                q: "100. The cognitive domain level of 'Creating' means:",
+                options: ["a. Recalling", "b. Understanding", "c. Putting parts together to form a whole", "d. Analyzing"],
+                ans: 2,
+                hint: "Synthesis/Creation.",
+                rat: "Creating involves combining elements to form a coherent whole."
+            },
+            {
+                q: "101. Which domain involves 'valuing' and 'organizing'?",
+                options: ["a. Cognitive", "b. Psychomotor", "c. Affective", "d. Logical"],
+                ans: 2,
+                hint: "Values.",
+                rat: "Valuing and Organizing are levels of the Affective Domain."
+            },
+            {
+                q: "102. Which domain involves 'imitating' and 'practicing'?",
+                options: ["a. Cognitive", "b. Psychomotor", "c. Affective", "d. Social"],
+                ans: 1,
+                hint: "Skills.",
+                rat: "Imitation and Practice are levels of the Psychomotor Domain."
+            },
+            {
+                q: "103. Bloom's Taxonomy was revised by:",
+                options: ["a. Anderson and Krathwohl", "b. Piaget and Vygotsky", "c. Skinner and Watson", "d. Gardner and Sternberg"],
+                ans: 0,
+                hint: "Former student of Bloom.",
+                rat: "Lorin Anderson and David Krathwohl published the revision in 2001."
+            },
+            {
+                q: "104. In the revised taxonomy, 'Synthesis' was replaced by:",
+                options: ["a. Evaluating", "b. Creating", "c. Analyzing", "d. Remembering"],
+                ans: 1,
+                hint: "Top level.",
+                rat: "Synthesis was renamed Creating and moved to the top."
+            },
+            {
+                q: "105. Kendall's and Marzano's taxonomy is referred to as the:",
+                options: ["a. Old Taxonomy", "b. New Taxonomy", "c. Simple Taxonomy", "d. Content Taxonomy"],
+                ans: 1,
+                hint: "It is 'New'.",
+                rat: "It is officially titled 'The New Taxonomy of Educational Objectives'."
+            },
+            {
+                q: "106. In the instructional cycle, outcomes assessment has several:",
+                options: ["a. Colors", "b. Phases", "c. Tests", "d. Grades"],
+                ans: 1,
+                hint: "Steps.",
+                rat: "It involves phases like Planning, Implementation, and Evaluation."
+            },
+            {
+                q: "107. 'Linguistic intelligence' assessments might include:",
+                options: ["a. Math problems", "b. Writing a story", "c. Drawing a map", "d. Singing a song"],
+                ans: 1,
+                hint: "Words.",
+                rat: "Linguistic involves language and writing."
+            },
+            {
+                q: "108. 'Spatial intelligence' assessments might include:",
+                options: ["a. Debating", "b. Graphic organizers", "c. Jumping", "d. Listening to music"],
+                ans: 1,
+                hint: "Visuals.",
+                rat: "Spatial involves visualizing and using graphic organizers."
+            },
+            {
+                q: "109. 'Musical intelligence' assessments might include:",
+                options: ["a. Solving equations", "b. Creating a rhythmic pattern", "c. Running", "d. Meditating"],
+                ans: 1,
+                hint: "Sound/Rhythm.",
+                rat: "It involves rhythm, pitch, and melody."
+            },
+            {
+                q: "110. 'Interpersonal intelligence' assessments involve:",
+                options: ["a. Working alone", "b. Group projects", "c. Silent reading", "d. Math drills"],
+                ans: 1,
+                hint: "Social.",
+                rat: "Interpersonal involves interacting with others."
+            },
+            {
+                q: "111. 'Intrapersonal intelligence' assessments involve:",
+                options: ["a. Team sports", "b. Self-reflection", "c. Public speaking", "d. Singing"],
+                ans: 1,
+                hint: "Self.",
+                rat: "Intrapersonal involves self-awareness and reflection."
+            },
+            {
+                q: "112. 'Naturalist intelligence' assessments involve:",
+                options: ["a. Using a computer", "b. Identifying plants or animals", "c. Playing guitar", "d. Solving puzzles"],
+                ans: 1,
+                hint: "Nature.",
+                rat: "It involves recognizing patterns in nature."
+            },
+            {
+                q: "113. A rubric that scores separate parts of a task is:",
+                options: ["a. Holistic", "b. Analytic", "c. Simple", "d. Binary"],
+                ans: 1,
+                hint: "Breaks it down.",
+                rat: "Analytic rubrics score specific criteria individually."
+            },
+            {
+                q: "114. A rubric that scores the task as a whole is:",
+                options: ["a. Analytic", "b. Holistic", "c. Detailed", "d. Fragmented"],
+                ans: 1,
+                hint: "Whole impression.",
+                rat: "Holistic rubrics give a single score based on overall impression."
+            },
+            {
+                q: "115. A 'Working Portfolio' contains:",
+                options: ["a. Only the final grades", "b. Samples of work in progress", "c. Only certificates", "d. Teacher's notes"],
+                ans: 1,
+                hint: "Works in progress.",
+                rat: "It tracks the development process, not just final outputs."
+            },
+            {
+                q: "116. A 'Showcase Portfolio' is for:",
+                options: ["a. Daily chores", "b. Best work samples", "c. Rough drafts", "d. Testing"],
+                ans: 1,
+                hint: "Display.",
+                rat: "It displays the student's best achievements."
+            },
+            {
+                q: "117. An 'Assessment Portfolio' is used for:",
+                options: ["a. Creative writing", "b. Documenting mastery of standards", "c. Personal diary", "d. Drawing"],
+                ans: 1,
+                hint: "Grading.",
+                rat: "It documents evidence of mastery for grading purposes."
+            },
+            {
+                q: "118. True-False tests are types of:",
+                options: ["a. Extended response", "b. Alternate response", "c. Multi-choice", "d. Essay"],
+                ans: 1,
+                hint: "Two options.",
+                rat: "They offer two alternatives (True or False)."
+            },
+            {
+                q: "119. Multiple choice tests consist of a 'stem' and:",
+                options: ["a. Answers", "b. Options or distractors", "c. Questions", "d. Paragraphs"],
+                ans: 1,
+                hint: "Choices.",
+                rat: "The choices are called options (including the key and distractors)."
+            },
+            {
+                q: "120. In a matching type test, the first column is called:",
+                options: ["a. Answers", "b. Premises", "c. Responses", "d. Questions"],
+                ans: 1,
+                hint: "Starting point.",
+                rat: "Column A usually contains the premises."
+            },
+            {
+                q: "121. In a matching type test, the second column is called:",
+                options: ["a. Premises", "b. Responses", "c. Labels", "d. Keys"],
+                ans: 1,
+                hint: "Answers.",
+                rat: "Column B contains the responses."
+            },
+            {
+                q: "122. Essay tests allow for:",
+                options: ["a. Guessing", "b. Freedom of expression", "c. Fast grading", "d. Machine scoring"],
+                ans: 1,
+                hint: "Writing freely.",
+                rat: "Essays allow students to organize and express ideas."
+            },
+            {
+                q: "123. A 'restricted-response' essay:",
+                options: ["a. Has no limits", "b. Limits the content and scope", "c. Is ten pages long", "d. Is a multiple choice"],
+                ans: 1,
+                hint: "Restricted.",
+                rat: "It limits the form and content of the answer."
+            },
+            {
+                q: "124. An 'extended-response' essay:",
+                options: ["a. Is very short", "b. Allows students to select information", "c. Is a fill-in-the-blank", "d. Has a one-word answer"],
+                ans: 1,
+                hint: "Open-ended.",
+                rat: "It allows students latitude in selecting and organizing information."
+            },
+            {
+                q: "125. Item Analysis looks at the:",
+                options: ["a. Student's name", "b. Quality of test items", "c. Color of the paper", "d. Cost of the test"],
+                ans: 1,
+                hint: "Is the question good?",
+                rat: "It evaluates the difficulty and discrimination of items."
+            },
+            {
+                q: "126. A Difficulty Index of 0.90 means the item is:",
+                options: ["a. Very hard", "b. Very easy", "c. Perfect", "d. Poor"],
+                ans: 1,
+                hint: "90% got it right.",
+                rat: "High index means it was easy."
+            },
+            {
+                q: "127. A Difficulty Index of 0.10 means the item is:",
+                options: ["a. Very easy", "b. Very hard", "c. Good", "d. Fair"],
+                ans: 1,
+                hint: "Only 10% got it right.",
+                rat: "Low index means it was hard."
+            },
+            {
+                q: "128. If a Discrimination Index is negative, the item should be:",
+                options: ["a. Kept", "b. Revised or discarded", "c. Used for all tests", "d. Praised"],
+                ans: 1,
+                hint: "Bad item.",
+                rat: "Negative discrimination means low scorers did better than high scorers, which is wrong."
+            },
+            {
+                q: "129. Validity refers to whether a test:",
+                options: ["a. Is long enough", "b. Measures what it claims to measure", "c. Is easy to print", "d. Is typed correctly"],
+                ans: 1,
+                hint: "Truthfulness.",
+                rat: "Validity is about accuracy of measurement."
+            },
+            {
+                q: "130. Reliability refers to the:",
+                options: ["a. Usefulness of the test", "b. Consistency of results", "c. Number of questions", "d. Font size"],
+                ans: 1,
+                hint: "Consistency.",
+                rat: "Reliability is about repeatability and consistency."
+            },
+            {
+                q: "131. 'Standard Deviation' measures:",
+                options: ["a. Average height", "b. Variability of scores", "c. Number of students", "d. Teacher's age"],
+                ans: 1,
+                hint: "Spread.",
+                rat: "It measures how spread out the scores are from the mean."
+            },
+            {
+                q: "132. A small Standard Deviation means scores are:",
+                options: ["a. Spread out", "b. Close to the mean", "c. Very high", "d. Very low"],
+                ans: 1,
+                hint: "Clustered.",
+                rat: "Small SD means data points are close to the average."
+            },
+            {
+                q: "133. A large Standard Deviation means scores are:",
+                options: ["a. Close together", "b. Widely spread", "c. Mostly failing", "d. All equal"],
+                ans: 1,
+                hint: "Scattered.",
+                rat: "Large SD means data points are spread far from the mean."
+            },
+            {
+                q: "134. In a normal distribution, most scores fall:",
+                options: ["a. At the top", "b. At the bottom", "c. In the middle", "d. Randomly"],
+                ans: 2,
+                hint: "Bell curve peak.",
+                rat: "In a normal curve, most scores cluster around the mean (middle)."
+            },
+            {
+                q: "135. Skewed distributions happen when scores are:",
+                options: ["a. Balanced", "b. Not symmetrical", "c. Missing", "d. Perfect"],
+                ans: 1,
+                hint: "Lopsided.",
+                rat: "Skewness implies lack of symmetry."
+            },
+            {
+                q: "136. Norm-referenced grading is often called:",
+                options: ["a. Absolute grading", "b. Relative grading", "c. Final grading", "d. Pass/Fail"],
+                ans: 1,
+                hint: "Relative to others.",
+                rat: "It grades students relative to each other."
+            },
+            {
+                q: "137. Criterion-referenced grading is also called:",
+                options: ["a. Relative grading", "b. Absolute grading", "c. Peer grading", "d. Competitive grading"],
+                ans: 1,
+                hint: "Fixed standard.",
+                rat: "It grades against an absolute standard."
+            },
+            {
+                q: "138. Grades represent a student's:",
+                options: ["a. Income", "b. Level of achievement", "c. Popularity", "d. Speed"],
+                ans: 1,
+                hint: "Achievement.",
+                rat: "Grades are indicators of achievement."
+            },
+            {
+                q: "139. Cumulative grading is common in:",
+                options: ["a. Elementary schools", "b. Colleges and universities", "c. Preschools", "d. Sports teams"],
+                ans: 1,
+                hint: "Not usually K-12 (which is averaging).",
+                rat: "Many colleges use cumulative GPA systems, though some high schools do too."
+            },
+            {
+                q: "140. Averaging grading is common in:",
+                options: ["a. Hospitals", "b. Elementary and secondary schools", "c. Law firms", "d. Factories"],
+                ans: 1,
+                hint: "K-12.",
+                rat: "DepEd K-12 uses an averaging system for the final grade."
+            },
+            {
+                q: "141. DepEd Order No. 8 emphasizes:",
+                options: ["a. Rote memorization", "b. Classroom assessment", "c. Physical punishment", "d. Teacher absence"],
+                ans: 1,
+                hint: "Assessment policy.",
+                rat: "It is the policy on Classroom Assessment."
+            },
+            {
+                q: "142. Final grades are reported as:",
+                options: ["a. Letters only", "b. Whole numbers", "c. Fractions", "d. Percentages with decimals"],
+                ans: 1,
+                hint: "No decimals.",
+                rat: "DepEd reports final grades as whole numbers."
+            },
+            {
+                q: "143. A learner who fails 3 or more subjects is:",
+                options: ["a. Promoted", "b. Retained", "c. Graduated", "d. Transferred"],
+                ans: 1,
+                hint: "Repeat.",
+                rat: "Failing 3 or more subjects results in retention in the same grade level."
+            },
+            {
+                q: "144. Remedial classes are for students who:",
+                options: ["a. Are already passing", "b. Have failed certain areas", "c. Are on vacation", "d. Are new students"],
+                ans: 1,
+                hint: "Fixing failure.",
+                rat: "Remedial classes help students who failed to meet expectations."
+            },
+            {
+                q: "145. 'Outcome-based' means starting with the:",
+                options: ["a. Middle", "b. End in mind", "c. Beginning", "d. Content"],
+                ans: 1,
+                hint: "Backwards design.",
+                rat: "OBE starts with the destination (outcome) and plans backward."
+            },
+            {
+                q: "146. Which author wrote 'Assessment in Learning 1'?",
+                options: ["a. Rosita L. Navarro", "b. Jean Piaget", "c. Maria Montessori", "d. John Dewey"],
+                ans: 0,
+                hint: "Filipino author.",
+                rat: "Rosita L. Navarro (and others) authored the specific textbook mentioned."
+            },
+            {
+                q: "147. The book is based on:",
+                options: ["a. OBE and PPST", "b. Old curriculum", "c. Traditional testing", "d. Subject focus"],
+                ans: 0,
+                hint: "Standards.",
+                rat: "It aligns with OBE and the Philippine Professional Standards for Teachers (PPST)."
+            },
+            {
+                q: "148. The 'Introduction' says education is between the:",
+                options: ["a. Principal and parent", "b. Teacher and student", "c. Book and shelf", "d. Computer and desk"],
+                ans: 1,
+                hint: "Key relationship.",
+                rat: "It emphasizes the teacher-student relationship."
+            },
+            {
+                q: "149. 'Knowledge explosion' refers to the:",
+                options: ["a. Loss of books", "b. Vast accessibility of information", "c. High price of school", "d. Hard tests"],
+                ans: 1,
+                hint: "Too much info.",
+                rat: "It refers to the rapid increase and availability of information."
+            },
+            {
+                q: "150. Assessment tools are used to determine if:",
+                options: ["a. Desired learning outcomes have been achieved", "b. The building is safe", "c. The lunch is ready", "d. The teacher is present"],
+                ans: 0,
+                hint: "Did they learn?",
+                rat: "The primary purpose is to verify achievement of outcomes."
+            }
