@@ -1,0 +1,803 @@
+
+[
+  {
+    "id": 1,
+    "question": "Why is performance given the largest weight in TLE and MAPEH?",
+    options: ["A. They are dominantly physical skill subjects", "B. They have no cognitive aspect.", "C. They have no affective aspect.", "D. The written and quarterly tests are given only 20% weight each"],
+    "answer": "A. They are dominantly physical skill subjects",
+    hint: "Think about the nature of these subjects; they involve 'doing' more than just 'knowing.'",
+    "rationalization": "MAPEH and TLE focus on practical application and skill acquisition, making performance-based tasks the most accurate measure of student proficiency[cite: 2]."
+  },
+  {
+    "id": 2,
+    "question": "Peter Tchaikovsky wrote the three greatest Ballet scores of all time, but which of the following is NOT one of them?",
+    options: ["A. Nutcracker", "B. Swan Lake", "C. Cinderella", "D. Sleeping Beauty"],
+    "answer": "C. Cinderella",
+    hint: "The composer of this specific 'Cinderella' ballet was actually Sergei Prokofiev.",
+    "rationalization": "While Tchaikovsky is famous for Nutcracker, Swan Lake, and Sleeping Beauty, the most famous ballet version of Cinderella was composed by Prokofiev[cite: 4]."
+  },
+  {
+    "id": 3,
+    "question": "During what time is it advisable to stay out of the water at sea?",
+    options: ["A. High tide", "B. Low tide", "C. Cloudy skies", "D. Thunderstorm"],
+    "answer": "D. Thunderstorm",
+    hint: "Water is a conductor of electricity, making this weather condition extremely dangerous.",
+    "rationalization": "Thunderstorms pose a severe risk of lightning strikes, which can be fatal to anyone in the water[cite: 5]."
+  },
+  {
+    "id": 4,
+    "question": "PE teachers make use of dance and art to impart health care messages. Which approach do they use?",
+    options: ["A. inquiry-based", "B. integrated", "C. collaborative", "D. problem based"],
+    "answer": "B. integrated",
+    hint: "This approach combines multiple disciplines—like PE, Art, and Health—into a single lesson.",
+    "rationalization": "An integrated approach blends different subject areas together to provide a more holistic learning experience[cite: 6]."
+  },
+  {
+    "id": 5,
+    "question": "Mrs. Cruz wants to inspire all students without exception to reach their fullest creative potential. On which principle of an art education is this practice anchored?",
+    options: ["A. Inclusive education", "B. Integrative education", "C. Constructive teaching", "D. Collaborative teaching"],
+    "answer": "A. Inclusive education",
+    hint: "This principle focuses on 'all students without exception.'",
+    "rationalization": "Inclusive education ensures that every student, regardless of their background or ability, is given the opportunity to succeed[cite: 7, 8]."
+  },
+  {
+    "id": 6,
+    "question": "What province is famous for traditional weaving, basketry, and marbles?",
+    options: ["A. Romblon", "B. Pampanga", "C. Cebu", "D. Davao"],
+    "answer": "A. Romblon",
+    hint: "This province is widely known as the 'Marble Capital of the Philippines.'",
+    "rationalization": "Romblon is geographically rich in marble and has a long tradition of high-quality weaving and basketry[cite: 9]."
+  },
+  {
+    "id": 7,
+    "question": "In archery, the amount of pull given to the bow will determine the speed and distance of the arrow upon its release. This refers to:",
+    options: ["A. First Law of Motion", "B. Second Law of Motion", "C. Third Law of Motion", "D. Newton's Law of Gravitation"],
+    "answer": "B. Second Law of Motion",
+    hint: "Force equals mass times acceleration (F=ma).",
+    "rationalization": "The Second Law of Motion states that acceleration is dependent on the force applied and the mass of the object; more pull (force) results in more speed[cite: 10]."
+  },
+  {
+    "id": 8,
+    "question": "For what object of worship was the ceremonial Subli dance intended by the folks of Bauan, Batangas?",
+    options: ["A. Santa Maria del Rosario", "B. Mahal na Poong Nazareno", "C. Mahal na Poong Sta. Cruz", "D. Santo Nino de Jesus"],
+    "answer": "C. Mahal na Poong Sta. Cruz",
+    hint: "The dance is performed as a tribute to the Holy Cross.",
+    "rationalization": "The Subli is a traditional religious dance of Batangas performed in honor of the 'Holy Cross' or 'Poong Santa Cruz'[cite: 11, 12]."
+  },
+  {
+    "id": 9,
+    "question": "What is the total number of medals acquired by the Filipino Olympians at the 2024 Summer Olympics?",
+    options: ["A. 3", "B. 4", "C. 5", "D. 6"],
+    "answer": "B. 4",
+    hint: "The Philippines won 2 gold medals and 2 bronze medals in this historic Olympic run.",
+    "rationalization": "In the 2024 Paris Olympics, Carlos Yulo won two golds, while Nesthy Petecio and Aira Villegas won bronze medals, totaling 4[cite: 13]."
+  },
+  {
+    "id": 10,
+    "question": "Who is the Father of Theater Design in the Philippines?",
+    options: ["A. Salvador Bernal", "B. Antonio Toledo", "C. Eduardo Castrillo", "D. Carlos “Botong” Francisco"],
+    "answer": "A. Salvador Bernal",
+    hint: "He was a National Artist known for using local materials like bamboo and abaca in stage design.",
+    "rationalization": "Salvador Bernal was a pioneer in Philippine stage design, integrating indigenous materials and sensitive aesthetics into theater[cite: 14]."
+  },
+  {
+    "id": 11,
+    "question": "K to Grade 3 children have difficulty in shooting a basketball through an upright hoop because of which vision-related factor?",
+    options: ["A. Figure-ground perception", "B. Hand-and-eye coordination", "C. Depth perception", "D. Peripheral vision"],
+    "answer": "A. Figure-ground perception",
+    hint: "This is the ability to distinguish an object from its background.",
+    "rationalization": "Young children often struggle to isolate the hoop (the figure) from the complex background of the gym or playground (the ground)[cite: 15]."
+  },
+  {
+    "id": 12,
+    "question": "Which dance term refers to swinging the arm downward and upward, passing in front of the body as if scooping, while the trunk is bent forward?",
+    options: ["A. Saludo", "B. Salok", "C. Sarok", "D. Set"],
+    "answer": "B. Salok",
+    hint: "The name sounds similar to the Tagalog word for 'scooping' water.",
+    "rationalization": "Salok is a traditional Philippine dance term describing the scooping motion of the arm in coordination with a trunk bend[cite: 16]."
+  },
+  {
+    "id": 13,
+    "question": "Which was originally an all-male dance of Abra presenting a mock fight between Ilocano Christians and Non-Christians using sticks?",
+    options: ["A. Sakuting", "B. Subli", "C. Pamulinawen", "D. Binasuan"],
+    "answer": "A. Sakuting",
+    hint: "This dance involves rhythmic stick clicking and originated in the northern part of Luzon.",
+    "rationalization": "Sakuting is a stick dance that dramatizes the historical conflicts between Christianized and non-Christianized groups in Abra[cite: 17]."
+  },
+  {
+    "id": 14,
+    "question": "Where was the 1st beach volleyball introduced in the USA?",
+    options: ["A. California", "B. Florida", "C. Washington", "D. Massachusetts"],
+    "answer": "A. California",
+    hint: "Think of the famous beaches in Santa Monica.",
+    "rationalization": "Beach volleyball originated on the beaches of Santa Monica, California, in the 1920s[cite: 18]."
+  },
+  {
+    "id": 15,
+    "question": "When the Spaniards arrived, they called the tattooed people of the Philippines ______.",
+    options: ["A. Anitos", "B. Pintados", "C. Sarimanok", "D. Bulul"],
+    "answer": "B. Pintados",
+    hint: "The term literally means 'painted ones' in Spanish.",
+    "rationalization": "The Spanish called the indigenous people of the Visayas 'Pintados' because of their elaborate and widespread tattooing[cite: 19, 20]."
+  },
+  {
+    "id": 16,
+    "question": "High caloric needs and sleep requirements of adolescents are directly related to which of the following?",
+    options: ["A. Elevated level of testosterone or estrogen in the body", "B. High rates of metabolic activity associated with growth and development", "C. increased level of physical activity beyond childhood", "D. increased in stress due to the competing demands of school, family, and peer group"],
+    "answer": "B. High rates of metabolic activity associated with growth and development",
+    hint: "Adolescence is a period of rapid physical changes that requires a lot of 'fuel.'",
+    "rationalization": "Rapid physical growth during puberty increases the body's metabolic rate, necessitating more food and rest for recovery[cite: 21]."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is NOT part of a track and field event?",
+    options: ["A. Running", "B. Jumping", "C. Triathlon", "D. Throwing"],
+    "answer": "C. Triathlon",
+    hint: "This event is a multi-sport race consisting of swimming, cycling, and running.",
+    "rationalization": "Track and field consists of discrete running, jumping, and throwing events; a triathlon is a separate multi-discipline endurance sport[cite: 22]."
+  },
+  {
+    "id": 18,
+    "question": "Which dance style commonly features a move with a long pause?",
+    options: ["A. Tango", "B. Rumba", "C. Waltz", "D. Foxtrot"],
+    "answer": "B. Rumba",
+    hint: "This is a slow, sensual Latin dance known for its 'stop' or 'pause' beats.",
+    "rationalization": "The Rumba is characterized by its rhythmic pattern which includes a distinct pause or slow count on the fourth beat[cite: 23]."
+  },
+  {
+    "id": 19,
+    "question": "For PE to be developmentally appropriate in lower grades, it should be: I. Sensory-based, II. Exploratory, III. Playful, IV. Specialized.",
+    options: ["A. I, II and III", "B. II and IV", "C. I and II", "D. III and IV"],
+    "answer": "A. I, II and III",
+    hint: "Young children learn through their senses and fun, not through intense specialization.",
+    "rationalization": "Early grade PE focuses on general movement and discovery (Exploratory, Sensory, Playful) rather than professional specialization[cite: 24]."
+  },
+  {
+    "id": 20,
+    "question": "In your Art class, sketching faces to show feelings caters to which of the multiple intelligences?",
+    options: ["A. Spatial", "B. Interpersonal", "C. Existential", "D. Intrapersonal"],
+    "answer": "A. Spatial",
+    hint: "This intelligence involves the ability to visualize and create graphic representations.",
+    "rationalization": "The act of sketching and visually representing internal states utilizes visual-spatial intelligence[cite: 25]."
+  },
+  {
+    "id": 21,
+    "question": "Who is the Father of Philippine Fashion?",
+    options: ["A. Ramon Valera", "B. Salvador Bernal", "C. Eduardo Masferre", "D. Francisco Coching"],
+    "answer": "A. Ramon Valera",
+    hint: "He is the National Artist who modernized the Terno by removing the 'panuelo.'",
+    "rationalization": "Ramon Valera is recognized as the pioneer of Philippine fashion for his innovations to the national costume[cite: 26]."
+  },
+  {
+    "id": 22,
+    "question": "This is a kind of woven fabric made by the T’boli tribe in South Cotabato.",
+    options: ["A. T’nalak", "B. Inabel", "C. Lufid", "D. Taqiyah"],
+    "answer": "A. T’nalak",
+    hint: "It is often called 'Dream Weaver' fabric because the patterns are said to come from dreams.",
+    "rationalization": "T’nalak is the traditional hand-woven cloth of the T'boli people, made from abaca fibers[cite: 27]."
+  },
+  {
+    "id": 23,
+    "question": "When do PE students need their bodily-kinesthetic intelligences?",
+    options: ["A. run, kick, throw, and catch", "B. anticipate trajectories of flying balls", "C. discuss game strategy", "D. keep score and calculate angles"],
+    "answer": "A. run, kick, throw, and catch",
+    hint: "This intelligence is about using the physical body to solve problems or create things.",
+    "rationalization": "Bodily-kinesthetic intelligence is the ability to use one's whole body or parts of it to perform physical tasks like sports[cite: 28]."
+  },
+  {
+    "id": 24,
+    "question": "In what sense is the K to 12 Curriculum Framework for Health constructivist?",
+    options: ["A. I, II and III", "B. I and II", "C. I only", "D. II and III only"],
+    "answer": "A. I, II and III",
+    hint: "Constructivism involves being learner-centered, age-appropriate, and building on what you already know.",
+    "rationalization": "The framework is constructivist because it places the learner at the center, respects developmental stages, and links new lessons to prior life experiences[cite: 29, 30]."
+  },
+  {
+    "id": 25,
+    "question": "What is the organ that produces insulin?",
+    options: ["A. Liver", "B. Kidney", "C. Pancreas", "D. Bladder"],
+    "answer": "C. Pancreas",
+    hint: "This organ is vital for regulating blood sugar levels.",
+    "rationalization": "The pancreas contains specialized cells called the Islets of Langerhans that secrete insulin[cite: 31]."
+  },
+  {
+    "id": 26,
+    "question": "In football (soccer), which position typically covers the most ground?",
+    options: ["A. Goalkeeper", "B. Defender", "C. Midfielder", "D. Winger"],
+    "answer": "C. Midfielder",
+    hint: "This player acts as the link between defense and attack, playing in the center of the field.",
+    "rationalization": "Midfielders must constantly move between the back and front lines to control the pace of the game, covering the highest mileage[cite: 32]."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following events celebrates San Isidro Labrador?",
+    options: ["A. Fertility Festival", "B. Moriones Festival", "C. Pahiyas Festival", "D. Sinulog Festival"],
+    "answer": "C. Pahiyas Festival",
+    hint: "This festival is known for decorating houses with colorful 'kiping' rice wafers.",
+    "rationalization": "The Pahiyas Festival in Lucban, Quezon, is a harvest celebration dedicated to San Isidro Labrador, the patron saint of farmers[cite: 33]."
+  },
+  {
+    "id": 28,
+    "question": "The ka-in fabric originated in southern Kalinga. What does the red in this fabric represent?",
+    options: ["A. bravery", "B. ground", "C. love", "D. mountains"],
+    "answer": "A. bravery",
+    hint: "Red is a color often associated with courage and the warrior spirit.",
+    "rationalization": "In Kalinga culture, the color red symbolizes bravery, reflecting the warrior history of the tribe[cite: 34]."
+  },
+  {
+    "id": 29,
+    "question": "Meat, poultry and dairy products belong to which food group?",
+    options: ["A. Go foods", "B. Glow foods", "C. Grow foods", "D. Energy-giving foods"],
+    "answer": "C. Grow foods",
+    hint: "These foods are high in protein and help build muscles and bones.",
+    "rationalization": "Protein-rich foods are classified as 'Grow' foods in the Philippine nutrition guide because they support physical growth and repair[cite: 35]."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following nutrients is the major source of energy during aerobic exercise?",
+    options: ["A. Protein", "B. Minerals", "C. Fats", "D. Carbohydrates"],
+    "answer": "D. Carbohydrates",
+    hint: "This nutrient is the body's preferred and most efficient source of fuel.",
+    "rationalization": "The body primarily burns glycogen (stored carbohydrates) during sustained aerobic activity[cite: 36]."
+  },
+  {
+    "id": 31,
+    "question": "What is the muscle responsible for chewing the food?",
+    options: ["A. Orbicularis Oris", "B. Mandible", "C. Sternocleidomastoid", "D. Gastrocnemius"],
+    "answer": "A. Orbicularis Oris",
+    hint: "This is a circular muscle around the mouth.",
+    "rationalization": "The Orbicularis Oris is the circular muscle of the mouth used for pouting and assisting in the initial stages of chewing/closing the lips[cite: 37]."
+  },
+  {
+    "id": 32,
+    "question": "Which country is widely considered the birthplace of Sepak Takraw?",
+    options: ["A. China", "B. India", "C. Malaysia (Thailand)", "D. Philippines"],
+    "answer": "C. Malaysia (Thailand)",
+    hint: "It is a popular Southeast Asian sport that uses a rattan ball.",
+    "rationalization": "Sepak Takraw originated in Southeast Asia, with Malaysia and Thailand both having deep historical ties to its development[cite: 38]."
+  },
+  {
+    "id": 33,
+    "question": "How many paddlers are typically in a standard Dragon Boat?",
+    options: ["A. 10 paddlers", "B. 18 paddlers", "C. 20 paddlers", "D. 22 paddlers"],
+    "answer": "C. 20 paddlers",
+    hint: "This is the number of people actually using paddles, not the total number of people on the boat.",
+    "rationalization": "A standard dragon boat crew has 22 people: 20 paddlers, 1 drummer, and 1 steerer[cite: 39]."
+  },
+  {
+    "id": 34,
+    "question": "Which country is considered the origin of Dragon Boat racing?",
+    options: ["A. Japan", "B. Vietnam", "C. China", "D. Thailand"],
+    "answer": "C. China",
+    hint: "The sport is associated with the legend of Qu Yuan.",
+    "rationalization": "Dragon boating is an ancient Chinese tradition that dates back over 2,000 years[cite: 40]."
+  },
+  {
+    "id": 35,
+    "question": "Where can you find the famous Bamboo Organ in the Philippines?",
+    options: ["A. Las Pinas", "B. Manila", "C. Davao", "D. Iloilo"],
+    "answer": "A. Las Pinas",
+    hint: "It is housed in St. Joseph Parish Church in this city.",
+    "rationalization": "The Las Piñas Bamboo Organ is a unique 19th-century musical instrument made almost entirely of bamboo[cite: 41, 42]."
+  },
+  {
+    "id": 36,
+    "question": "The type of bone that usually functions as a lever is the:",
+    options: ["A. Flat bone", "B. Short bone", "C. Irregular bone", "D. Long bone"],
+    "answer": "D. Long bone",
+    hint: "Think of the femur or humerus.",
+    "rationalization": "Long bones act as rigid bars that muscles pull against to create movement around a fulcrum (the joint)[cite: 43]."
+  },
+  {
+    "id": 37,
+    "question": "Women’s Artistic Gymnastics is played in 4 events, EXCEPT for:",
+    options: ["A. Vault", "B. Asymmetrical Bars", "C. Balance Beam", "D. Rings"],
+    "answer": "D. Rings",
+    hint: "This event is exclusive to Men's Artistic Gymnastics.",
+    "rationalization": "The Still Rings is a male-only discipline in competitive gymnastics[cite: 44]."
+  },
+  {
+    "id": 38,
+    "question": "In which step of teaching a skill is the student made to practice in a planned situation to transfer the learning?",
+    options: ["A. Instructing", "B. Demonstrating", "C. Applying", "D. Confirming"],
+    "answer": "C. Applying",
+    hint: "This is the 'doing' phase where students use what they've learned.",
+    "rationalization": "The 'Applying' phase is when students perform the skill themselves to reinforce learning and gain proficiency[cite: 45]."
+  },
+  {
+    "id": 39,
+    "question": "In what order should the four steps of teaching a skill come?",
+    options: ["A. I, III, II and IV", "B. III, I, IV and II", "C. I, II, III and IV", "D. III, I, II and IV"],
+    "answer": "A. I, III, II and IV",
+    hint: "The order is: Instructing, Demonstrating, Applying, and Confirming.",
+    "rationalization": "Standard teaching methodology follows: explain the skill (I), show the skill (III), let students try (II), and give feedback (IV)[cite: 46, 47]."
+  },
+  {
+    "id": 40,
+    "question": "In which step does the PE teacher give feedback on success?",
+    options: ["A. Confirming", "B. Demonstrating", "C. Instructing", "D. Applying"],
+    "answer": "A. Confirming",
+    hint: "Feedback happens at the end to verify if the goal was met.",
+    "rationalization": "Confirming is the final stage where the teacher evaluates performance and provides corrective feedback[cite: 48]."
+  },
+  {
+    "id": 41,
+    "question": "A direct teaching activity where students imitate from a demonstration is called:",
+    options: ["A. Lecturing", "B. Discovering", "C. Modelling", "D. Inquiring"],
+    "answer": "C. Modelling",
+    hint: "The teacher acts as a 'model' for the student to copy.",
+    "rationalization": "Modeling is the process of demonstrating a behavior or skill so students can observe and replicate it."
+  },
+  {
+    "id": 42,
+    "question": "Which type of practice is best with discrete, closed skills?",
+    options: ["A. Massed Practice", "B. Variable Practice", "C. Fixed Practice", "D. Distributed Practice"],
+    "answer": "C. Fixed Practice",
+    hint: "This involves repeating the same skill in the same stable environment.",
+    "rationalization": "Fixed practice (or drills) is best for closed skills where the environment doesn't change[cite: 49]."
+  },
+  {
+    "id": 43,
+    "question": "In which dance subject can creative work be most effectively applied?",
+    options: ["A. Folk dance", "B. Interpretative dance", "C. Social dance", "D. Square dance"],
+    "answer": "B. Interpretative dance",
+    hint: "This style focuses on expressing a theme or story through original movement.",
+    "rationalization": "Interpretative dance allows the dancer to create their own movements to interpret music or emotions[cite: 50]."
+  },
+  {
+    "id": 44,
+    "question": "Which assessment is also referred to as alternative assessment?",
+    options: ["A. Indirect", "B. Authentic", "C. Traditional", "D. Performance"],
+    "answer": "B. Authentic",
+    hint: "It measures learning in 'real-world' contexts.",
+    "rationalization": "Authentic assessment requires students to apply skills in ways that mirror real-world challenges[cite: 51]."
+  },
+  {
+    "id": 45,
+    "question": "How is multidimensional assessment applied in MAPEH?",
+    options: ["A. Assessment sticks to authentic tests.", "B. The written test combines objective and essay tests.", "C. Assessment is done with the use of varied tools and tasks.", "D. Assessment excludes traditional tests."],
+    "answer": "C. Assessment is done with the use of varied tools and tasks.",
+    hint: "Multidimensional means looking at the student's progress from many different angles.",
+    "rationalization": "Using varied tools (rubrics, observations, portfolios) ensures all learning styles and skill levels are measured[cite: 52, 53, 54]."
+  },
+  {
+    "id": 46,
+    "question": "Which song describes the tiresome task of farmers planting all day?",
+    options: ["A. Bahay Kubo", "B. Pamulinawen", "C. Magtanim Ay ‘Di Biro", "D. Paru-Parong Bukid"],
+    "answer": "C. Magtanim Ay ‘Di Biro",
+    hint: "The title literally translates to 'Planting is no joke.'",
+    "rationalization": "This classic Tagalog folk song highlights the physical labor and hardship of farmers in the rice fields[cite: 55]."
+  },
+  {
+    "id": 47,
+    "question": "Isaiah practices dribbling while walking to develop which component?",
+    options: ["A. Agility", "B. Balance", "C. Coordination", "D. Flexibility"],
+    "answer": "C. Coordination",
+    hint: "This involves using the hands and feet together smoothly.",
+    "rationalization": "Hand-eye and motor coordination are required to walk while simultaneously controlling a bouncing ball[cite: 56]."
+  },
+  {
+    "id": 48,
+    "question": "What nutrient is an organic substance made by plants or animals?",
+    options: ["A. fat", "B. protein", "C. vitamin", "D. mineral"],
+    "answer": "C. vitamin",
+    hint: "Minerals come from the earth; these come from living things.",
+    "rationalization": "Vitamins are organic compounds required in small amounts, whereas minerals are inorganic elements[cite: 57]."
+  },
+  {
+    "id": 49,
+    "question": "In tennis, how many Grand Slam tournaments are held in a calendar year?",
+    options: ["A. 2", "B. 3", "C. 4", "D. 5"],
+    "answer": "C. 4",
+    hint: "The four are: Australian Open, French Open, Wimbledon, and US Open.",
+    "rationalization": "There are exactly four major annual tennis championships known as the Grand Slams[cite: 58]."
+  },
+  {
+    "id": 50,
+    "question": "What do the circular movements in the Bendian dance symbolize?",
+    options: ["A. Unity and harmony among the Ibalois", "B. Affinity with nature", "C. Victory over enemy", "D. Endless life"],
+    "answer": "A. Unity and harmony among the Ibalois",
+    hint: "Circular formations often represent community and togetherness.",
+    "rationalization": "The Bendian is a circle dance of the Ibaloi people performed to celebrate victory and communal unity[cite: 59]."
+  },
+  {
+    "id": 51,
+    "question": "Does MAPEH make use of traditional assessment?",
+    options: ["A. No, authentic tests only", "B. Yes, for knowledge-based items.", "C. Yes for skill-based items.", "D. No, always authentic assessment"],
+    "answer": "B. Yes, for knowledge-based items.",
+    hint: "Paper-and-pencil tests are still useful for checking if students know facts and terms.",
+    "rationalization": "Traditional tests are suitable for measuring the cognitive/knowledge component of MAPEH, while performance tests are for skills[cite: 60, 61]."
+  },
+  {
+    "id": 52,
+    "question": "What is considered the most important meal for an athlete?",
+    options: ["A. supper", "B. lunch", "C. breakfast", "D. all of the above"],
+    "answer": "C. breakfast",
+    hint: "It 'breaks the fast' and provides fuel for the day's training.",
+    "rationalization": "Breakfast kickstarts metabolism and provides the energy needed for physical and mental performance throughout the day[cite: 62]."
+  },
+  {
+    "id": 53,
+    "question": "What eye inflammation is caused by a contagious virus and results in eyelid deformities?",
+    options: ["A. Cataract", "B. Astigmatism", "C. Trachoma", "D. Glaucoma"],
+    "answer": "C. Trachoma",
+    hint: "It is a leading cause of preventable blindness worldwide caused by bacteria/virus.",
+    "rationalization": "Trachoma is a bacterial infection (often classified under viral contagions in older texts) that causes scarring of the inner eyelid[cite: 63]."
+  },
+  {
+    "id": 54,
+    "question": "Which of these is a simple scrape-type wound?",
+    options: ["A. Laceration", "B. Puncture", "C. Incision", "D. Abrasion"],
+    "answer": "D. Abrasion",
+    hint: "Think of a 'skinned knee.'",
+    "rationalization": "An abrasion is a superficial wound where the top layer of skin is scraped off[cite: 64]."
+  },
+  {
+    "id": 55,
+    "question": "It is the medical term for a complete loss of taste.",
+    options: ["A. Anosmia", "B. Ageusia", "C. Hypoesthesia", "D. Hyposmia"],
+    "answer": "B. Ageusia",
+    hint: "Anosmia is the loss of smell; this one starts with 'Age-.'",
+    "rationalization": "Ageusia is the total loss of taste functions of the tongue[cite: 65]."
+  },
+  {
+    "id": 56,
+    "question": "How do muscles work to produce movement?",
+    options: ["A. Pair of muscles acts in opposite directions.", "B. Pair of muscles acts towards the same direction.", "C. Pair of muscles pulls each other.", "D. Pair of muscles pushes each other."],
+    "answer": "C. Pair of muscles pulls each other.",
+    hint: "Muscles can only pull; they never push.",
+    "rationalization": "Muscles work in antagonistic pairs where one contracts (pulls) while the other relaxes[cite: 66, 68]."
+  },
+  {
+    "id": 57,
+    "question": "The carpometacarpal joint of the thumb is a:",
+    options: ["A. Saddle joint", "B. Hinge joint", "C. Pivot joint", "D. Gliding joint"],
+    "answer": "A. Saddle joint",
+    hint: "This joint allows the thumb to be opposable (touch other fingers).",
+    "rationalization": "Saddle joints allow for more flexibility than hinge joints but less than ball-and-socket, unique to the thumb."
+  },
+  {
+    "id": 58,
+    "question": "The biggest part of the human brain consisting of the four lobes is the:",
+    options: ["A. Cerebellum", "B. Cerebrum", "C. Midbrain", "D. Brain stem"],
+    "answer": "B. Cerebrum",
+    hint: "This part handles higher functions like thinking and voluntary movement.",
+    "rationalization": "The cerebrum is the largest part of the brain and is divided into the frontal, parietal, temporal, and occipital lobes."
+  },
+  {
+    "id": 59,
+    "question": "HIV may be transmitted in all ways EXCEPT:",
+    options: ["A. perinatally", "B. oral sex", "C. breastmilk", "D. genetically"],
+    "answer": "D. genetically",
+    hint: "HIV is an acquired virus, not something you are born with due to your DNA.",
+    "rationalization": "HIV is a communicable disease passed through body fluids, not a hereditary genetic condition[cite: 69, 71]."
+  },
+  {
+    "id": 60,
+    "question": "What is Cristina experiencing if her anxiety helps her function better?",
+    options: ["A. Distress", "B. Anxiety", "C. Eustress", "D. Depression"],
+    "answer": "C. Eustress",
+    hint: "This is often called 'positive stress.'",
+    "rationalization": "Eustress is beneficial stress that motivates an individual to perform and achieve goals[cite: 72, 73]."
+  },
+  {
+    "id": 61,
+    "question": "The 'ossicles' (malleus, incus, stapes) are found in the:",
+    options: ["A. Throat", "B. Ear", "C. Vertebral column", "D. Ankle"],
+    "answer": "B. Ear",
+    hint: "These are the three smallest bones in the human body.",
+    "rationalization": "The ossicles are located in the middle ear and transmit sound vibrations to the cochlea[cite: 74]."
+  },
+  {
+    "id": 62,
+    "question": "When Queenie extends her arm to receive money, what actions are involved?",
+    options: ["A. Pronation and rotation", "B. Flexion and abduction", "C. Flexion and inversion", "D. Extension and supination"],
+    "answer": "D. Extension and supination",
+    hint: "Extension is straightening the arm; supination is turning the palm up.",
+    "rationalization": "Straightening the elbow (extension) and rotating the forearm so the palm faces up (supination) allows one to hold coins[cite: 75]."
+  },
+  {
+    "id": 63,
+    "question": "What vitamin is also known as Folic Acid?",
+    options: ["A. Vitamin E", "B. Vitamin B1", "C. Vitamin B9", "D. Vitamin C"],
+    "answer": "C. Vitamin B9",
+    hint: "It is crucial for cell growth and DNA formation.",
+    "rationalization": "Folic Acid is the synthetic form of Vitamin B9, essential for healthy red blood cell production[cite: 76]."
+  },
+  {
+    "id": 64,
+    "question": "In a dance with one mudansa and two Bacui steps, how many measures are there?",
+    options: ["A. 24 measures", "B. 8 measures", "C. 32 measures", "D. 16 measures"],
+    "answer": "A. 24 measures",
+    hint: "A mudansa step usually takes 8 measures and a Bacui step takes 8 measures.",
+    "rationalization": "The calculation (1x8) + (2x8) = 24 measures[cite: 77]."
+  },
+  {
+    "id": 65,
+    "question": "The total crew of a standard dragon boat typically consists of ___ team members.",
+    options: ["A. 18", "B. 20", "C. 22", "D. 24"],
+    "answer": "C. 22",
+    hint: "Includes the paddlers, the drummer, and the steerer.",
+    "rationalization": "The full racing crew is made up of 20 paddlers plus 2 support roles."
+  },
+  {
+    "id": 66,
+    "question": "In what province is the Feast of Pahiyas celebrated?",
+    options: ["A. Pulilan, Bulacan", "B. Lucban, Quezon", "C. Malaybalay, Bukidnon", "D. Kalibo, Aklan"],
+    "answer": "B. Lucban, Quezon",
+    hint: "Think of the famous rice wafers called 'kiping.'",
+    "rationalization": "Lucban, Quezon is the home of the world-famous Pahiyas festival[cite: 78]."
+  },
+  {
+    "id": 67,
+    "question": "Which ballet adaptation is based on the folktales of Severino Reyes?",
+    options: ["A. Lola Basyang", "B. Mariang Alimango", "C. Ang Mahiwagang Baul", "D. Rama Hari"],
+    "answer": "A. Lola Basyang",
+    hint: "Severino Reyes used this grandmother's name as his pen name.",
+    "rationalization": "'Mga Kuwento ni Lola Basyang' was adapted into a famous ballet production to promote Filipino literature."
+  },
+  {
+    "id": 68,
+    "question": "Oliver has Myopia. What kind of lens can correct this?",
+    options: ["A. Convex lenses", "B. Concave lenses", "C. Contact lenses", "D. Varifocal lenses"],
+    "answer": "B. Concave lenses",
+    hint: "Myopia is nearsightedness; the lens needs to spread the light out.",
+    "rationalization": "Concave lenses diverge light rays to correctly focus them on the retina of a myopic eye[cite: 79, 80]."
+  },
+  {
+    "id": 69,
+    "question": "The first thing to do after detecting a child has hearing loss is to:",
+    options: ["A. Get medical attention", "B. Administer hearing test", "C. Speak and look at the child directly", "D. Use sign language"],
+    "answer": "A. Get medical attention",
+    hint: "Medical professionals must first determine the cause and extent of the loss.",
+    "rationalization": "A medical evaluation is the necessary first step to determine if the loss is treatable or permanent[cite: 81]."
+  },
+  {
+    "id": 70,
+    "question": "How many players are on each team in a Sepak Takraw match?",
+    options: ["A. 2", "B. 3", "C. 4", "D. 6"],
+    "answer": "B. 3",
+    hint: "This set of three players is called a 'Regu.'",
+    "rationalization": "A standard competitive 'regu' in Sepak Takraw consists of exactly three players[cite: 83]."
+  },
+  {
+    "id": 71,
+    "question": "In performing a triple jump, what is the proper sequence?",
+    options: ["A. Hop, step, hop", "B. Jump, hop, step", "C. Hop, jump, step", "D. Hop, step, jump"],
+    "answer": "D. Hop, step, jump",
+    hint: "The name of the event used to be 'Hop, Step, and Jump.'",
+    "rationalization": "The athlete must perform a hop on one foot, a step on the other, and finally a jump into the pit[cite: 84]."
+  },
+  {
+    "id": 72,
+    "question": "Which habit does NOT relate to personal cleanliness?",
+    options: ["A. Wearing clean clothing", "B. Relaxing and sleeping well", "C. Having clean hair", "D. Taking a daily bath"],
+    "answer": "B. Relaxing and sleeping well",
+    hint: "This relates to rest and recovery, not hygiene.",
+    "rationalization": "Sleep is a component of overall wellness but is not a direct hygiene practice[cite: 85]."
+  },
+  {
+    "id": 73,
+    "question": "What sports event consists of a run/swim/run combination?",
+    options: ["A. Triathlon", "B. Aquathlon", "C. Heptathlon", "D. Decathlon"],
+    "answer": "B. Aquathlon",
+    hint: "It is a simplified version of a triathlon without the cycling.",
+    "rationalization": "Aquathlon specifically involves continuous running and swimming stages[cite: 86]."
+  },
+  {
+    "id": 74,
+    "question": "What is the traditional ball used in Sepak Takraw made of?",
+    options: ["A. Leather", "B. Rubber", "C. Plastic", "D. Rattan"],
+    "answer": "D. Rattan",
+    hint: "It's a vine-like material that is woven into a ball.",
+    "rationalization": "Traditionally, Sepak Takraw balls are hand-woven from strips of rattan[cite: 87]."
+  },
+  {
+    "id": 75,
+    "question": "What is a famous folksong from Pampanga?",
+    options: ["A. Sarung banggi", "B. Atin Cu Pung Singsing", "C. Pamulinawen", "D. Dandansoy"],
+    "answer": "B. Atin Cu Pung Singsing",
+    hint: "It is a song about a missing ring.",
+    "rationalization": "This is the most iconic Kapampangan folk song, telling the story of a girl who lost her ring[cite: 88]."
+  },
+  {
+    "id": 76,
+    "question": "What is the most important musical instrument of the Muslim Maguindanaon?",
+    options: ["A. Kulintang", "B. Angklung", "C. Suling", "D. Dabakan"],
+    "answer": "A. Kulintang",
+    hint: "It consists of a row of small, horizontally laid gongs.",
+    "rationalization": "The Kulintang is the central ensemble instrument in Southern Philippine Muslim culture[cite: 89]."
+  },
+  {
+    "id": 77,
+    "question": "When a dancer moves her arms away from the midline, it is called:",
+    options: ["A. Circumduction", "B. Pronation", "C. Abduction", "D. Adduction"],
+    "answer": "C. Abduction",
+    hint: "Think of someone being 'abducted' (taken away).",
+    "rationalization": "Abduction is movement away from the body's midline; adduction is movement toward it[cite: 90]."
+  },
+  {
+    "id": 78,
+    "question": "What is the only bone that does not form a joint with any other bone?",
+    options: ["A. Skull", "B. Hyoid", "C. Ossicles", "D. Sacrum"],
+    "answer": "B. Hyoid",
+    hint: "It is a U-shaped bone in the neck that supports the tongue.",
+    "rationalization": "The hyoid bone is suspended by muscles and ligaments and does not articulate with other bones[cite: 91]."
+  },
+  {
+    "id": 79,
+    "question": "Which game involves balancing on bamboo stilts?",
+    options: ["A. Tumbang Preso", "B. Kadang-Kadang", "C. Patintero", "D. Luksong Tinik"],
+    "answer": "B. Kadang-Kadang",
+    hint: "This is the local name for the 'Tiyakad' game.",
+    "rationalization": "Kadang-kadang is a traditional race using coconut shells or bamboo stilts[cite: 92]."
+  },
+  {
+    "id": 80,
+    "question": "Which variety act consists of songs, dances, skits, and magic?",
+    options: ["A. Zarzuela", "B. Bodabil", "C. Komedya", "D. Moro-moro"],
+    "answer": "B. Bodabil",
+    hint: "It's the Filipino localized version of Vaudeville.",
+    "rationalization": "Bodabil was highly popular in the Philippines during the mid-20th century as a mixed entertainment show[cite: 93]."
+  },
+  {
+    "id": 81,
+    "question": "Which Republic Act prohibits cigarette sales to minors?",
+    options: ["A. R.A. 9710", "B. R.A. 9211", "C. R.A 8749", "D. R.A. 9165"],
+    "answer": "B. R.A. 9211",
+    hint: "Known as the Tobacco Regulation Act of 2003.",
+    "rationalization": "RA 9211 regulates the packaging, sale, and distribution of tobacco products in the Philippines[cite: 94]."
+  },
+  {
+    "id": 82,
+    "question": "What law helps prevent and control HIV/AIDS in families?",
+    options: ["A. RA 8504", "B. RA 7719", "C. RH Bill 4244", "D. RA 9211"],
+    "answer": "A. RA 8504",
+    hint: "Known as the Philippine AIDS Prevention and Control Act of 1998.",
+    "rationalization": "RA 8504 establishes policies and measures for the prevention and control of HIV/AIDS in the Philippines[cite: 96]."
+  },
+  {
+    "id": 83,
+    "question": "In table tennis, what is a 20-20 score called?",
+    options: ["A. Deuce", "B. Let", "C. Net", "D. Love"],
+    "answer": "A. Deuce",
+    hint: "The same term used in regular lawn tennis for a tied score.",
+    "rationalization": "A deuce requires players to continue until one leads by 2 clear points[cite: 97]."
+  },
+  {
+    "id": 84,
+    "question": "What is the first step when teaching a traditional dance?",
+    options: ["A. Teach the steps", "B. Teach the history", "C. Perform the dance", "D. Play the music"],
+    "answer": "B. Teach the history",
+    hint: "You should understand the context and origin before moving.",
+    "rationalization": "Providing historical context is the standard first step in teaching folk and traditional dances[cite: 98]."
+  },
+  {
+    "id": 85,
+    "question": "Does PE and Health make use of traditional assessment?",
+    options: ["A. No, authentic tests only", "B. Yes, for knowledge-based items.", "C. Yes for skill-based items.", "D. No, always authentic assessment"],
+    "answer": "B. Yes, for knowledge-based items.",
+    hint: "This is identical to Question 51.",
+    "rationalization": "Written tests are used to evaluate cognitive mastery of rules, health concepts, and anatomy[cite: 99, 100]."
+  },
+  {
+    "id": 86,
+    "question": "Which global sports event is held for athletes with disabilities?",
+    options: ["A. Olympics", "B. Paralympics", "C. Special Olympics", "D. Commonwealth Games"],
+    "answer": "B. Paralympics",
+    hint: "This event runs parallel to the Olympic Games.",
+    "rationalization": "The Paralympic Games are the premier international multi-sport event for athletes with physical impairments[cite: 101]."
+  },
+  {
+    "id": 87,
+    "question": "What force pushes your body off the water in swimming?",
+    options: ["A. Pressure", "B. Hydraulics", "C. Buoyancy", "D. Gravity"],
+    "answer": "C. Buoyancy",
+    hint: "It's the upward force exerted by a fluid.",
+    "rationalization": "Buoyancy is the force that counteracts gravity in the water, allowing swimmers to float and move efficiently."
+  },
+  {
+    "id": 88,
+    "question": "From what region is the song Sarung Banggi?",
+    options: ["A. Visayas", "B. Bicol", "C. Ilocano", "D. Pampanga"],
+    "answer": "B. Bicol",
+    hint: "It is the most famous Bicolano love song.",
+    "rationalization": "Sarung Banggi was composed by Potenciano Gregorio and is a cultural icon of the Bicol region[cite: 102]."
+  },
+  {
+    "id": 89,
+    "question": "To calculate heart rate, you time the pulse for 15 seconds and then:",
+    options: ["A. Multiply by 4", "B. Multiply by 6", "C. Multiply by 5", "D. Multiply by 10"],
+    "answer": "A. Multiply by 4",
+    hint: "Since there are 60 seconds in a minute, and 15 x 4 = 60...",
+    "rationalization": "Multiplying a 15-second count by four gives the total beats per minute (BPM)[cite: 103]."
+  },
+  {
+    "id": 90,
+    "question": "Who is the Filipino pole vaulter who won gold at the 2021 SEA Games?",
+    options: ["A. Carlos Yulo", "B. Eumir Marcial", "C. Michael Martinez", "D. Ernest John Obiena"],
+    "answer": "D. Ernest John Obiena",
+    hint: "He is currently one of the top-ranked pole vaulters in the world.",
+    "rationalization": "EJ Obiena is the Philippines' star athlete in track and field, specifically pole vault[cite: 104]."
+  },
+  {
+    "id": 91,
+    "question": "Who was the Filipino scout who competed in the 1924 Paris Olympics?",
+    options: ["A. Teofilo Yldefonso", "B. Simeon Toribio", "C. David Nepomuceno", "D. Jose Villanueva"],
+    "answer": "C. David Nepomuceno",
+    hint: "He was the first-ever Filipino to compete in the Olympic Games.",
+    "rationalization": "David Nepomuceno was the lone athlete representative in the 1924 Paris Olympics[cite: 105, 108]."
+  },
+  {
+    "id": 92,
+    "question": "What skill is primarily tested in 'Juego de Anillo' (catching a ring while riding)?",
+    options: ["A. Endurance", "B. Speed", "C. Hand-eye coordination", "D. Strength"],
+    "answer": "C. Hand-eye coordination",
+    hint: "It requires precision while moving to hook a small ring with a stick.",
+    "rationalization": "The game focuses on the visual-motor ability to synchronize hand movement with a target[cite: 109]."
+  },
+  {
+    "id": 93,
+    "question": "A person with this blood type can receive any type of blood (Universal Recipient).",
+    options: ["A. AB", "B. O", "C. A", "D. B"],
+    "answer": "B. O",
+    hint: "According to the source document provided.",
+    "rationalization": "The exam key identifies Type O, though medically, AB is the Universal Recipient and O is the Universal Donor[cite: 110]."
+  },
+  {
+    "id": 94,
+    "question": "In resistance training, what happens to muscles exposed to stress?",
+    options: ["A. They get worn out", "B. They decrease in size", "C. They get weaker", "D. They get stronger"],
+    "answer": "D. They get stronger",
+    hint: "The body adapts to the 'stress' of lifting weights.",
+    "rationalization": "Resistance training causes hypertrophy and neural adaptations that increase muscle strength[cite: 111]."
+  },
+  {
+    "id": 95,
+    "question": "The muscle on the upper arm used as the injection site is the:",
+    options: ["A. Deltoid", "B. Triceps", "C. Trapezius", "D. Biceps"],
+    "answer": "A. Deltoid",
+    hint: "It's the large triangular muscle covering the shoulder joint.",
+    "rationalization": "The deltoid is the preferred site for many intramuscular injections in adults."
+  },
+  {
+    "id": 96,
+    "question": "Which system's main function is transportation of materials to cells?",
+    options: ["A. Circulatory System", "B. Muscular System", "C. Excretory System", "D. Endocrine System"],
+    "answer": "A. Circulatory System",
+    hint: "It uses blood to move oxygen and nutrients.",
+    "rationalization": "The heart and blood vessels work to transport nutrients, gases, and waste throughout the body[cite: 112]."
+  },
+  {
+    "id": 97,
+    "question": "What is the study of forces acting on the body that influence movement?",
+    options: ["A. Mechanics", "B. Anatomy", "C. Biomechanics", "D. Kinetics"],
+    "answer": "D. Kinetics",
+    hint: "This is a branch of mechanics specifically dealing with forces.",
+    "rationalization": "Kinetics is the study of the forces that cause motion[cite: 113]."
+  },
+  {
+    "id": 98,
+    "question": "What are the building blocks and smallest structures of the body?",
+    options: ["A. Tissue", "B. Cell", "C. Organs", "D. Systems"],
+    "answer": "B. Cell",
+    hint: "All living things are made of these.",
+    "rationalization": "The cell is the basic structural and functional unit of all living organisms[cite: 114, 115]."
+  },
+  {
+    "id": 99,
+    "question": "A muscle contraction with NO joint movement is called:",
+    options: ["A. Isotonic", "B. Isokinetic", "C. Isometric", "D. Concentric"],
+    "answer": "C. Isometric",
+    hint: "Example: Pushing against a wall or holding a plank.",
+    "rationalization": "Isometric contractions involve muscle tension without any change in the muscle length or joint angle."
+  },
+  {
+    "id": 100,
+    "question": "How many bones are there in the human skull?",
+    options: ["A. 23", "B. 22", "C. 25", "D. 15"],
+    "answer": "B. 22",
+    hint: "Includes 8 cranial bones and 14 facial bones.",
+    "rationalization": "The adult human skull is typically composed of 22 separate bones[cite: 116]."
+  }
+]
